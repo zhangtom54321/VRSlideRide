@@ -20,6 +20,8 @@ android {
 }
 
 dependencies {
+    implementation 'com.google.firebase:firebase-storage:11.0.4'
+    implementation 'com.google.firebase:firebase-auth:11.0.4'
     compile fileTree(dir: 'libs', include: ['*.jar'])
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
@@ -34,3 +36,6 @@ dependencies {
     // Required for all Google VR apps
     compile 'com.google.vr:sdk-base:1.80.0'
 }
+
+
+apply plugin: 'com.google.gms.google-services'

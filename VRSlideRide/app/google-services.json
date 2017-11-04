@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "616730288995",
+    "firebase_url": "https://vrsliderrider.firebaseio.com",
+    "project_id": "vrsliderrider",
+    "storage_bucket": "vrsliderrider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616730288995:android:8d47262b2fa587fa",
+        "android_client_info": {
+          "package_name": "com.firebirdhacks.vrslideride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616730288995-m7an44m1irfbd7qcbt7ntiad175305up.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebirdhacks.vrslideride",
+            "certificate_hash": "b580ae6c39288e10cfc6acc7595d1aac2d1ecddb"
+          }
+        },
+        {
+          "client_id": "616730288995-jbo0493d8ogvub67qais368q3g202hla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9BEjKG80R0b8ST7qZ1iPA8TGUIbHj_rk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616730288995-jbo0493d8ogvub67qais368q3g202hla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
