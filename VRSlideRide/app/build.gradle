@@ -27,4 +27,10 @@ dependencies {
     compile 'com.android.support:appcompat-v7:26.+'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     testCompile 'junit:junit:4.12'
+
+    // Adds Google VR spatial audio support
+    compile 'com.google.vr:sdk-audio:1.80.0'
+
+    // Required for all Google VR apps
+    compile 'com.google.vr:sdk-base:1.80.0'
 }
