@@ -10,9 +10,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c195366-1099-4c3d-bb3f-c21859119871" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/google/devrel/vrviewapp/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/devrel/vrviewapp/MainActivity.java" />
-    </list>
+    <list default="true" id="2c195366-1099-4c3d-bb3f-c21859119871" name="Default" comment="" />
     <ignored path="VRSlideRide.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,8 +73,8 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/devrel/vrviewapp/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="69" column="18" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
+            <state relative-caret-position="219">
+              <caret line="66" column="70" selection-start-line="66" selection-start-column="69" selection-end-line="66" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -3029,8 +3027,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/devrel/vrviewapp/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="69" column="18" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
+        <state relative-caret-position="219">
+          <caret line="66" column="70" selection-start-line="66" selection-start-column="69" selection-end-line="66" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
