@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/res/anim/design_bottom_sheet_slide_out.xml"
+    }
+]
