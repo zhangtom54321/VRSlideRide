@@ -27,32 +27,32 @@ public final class R {
         public static final int transition = 0x7f02006a;
     }
     public static final class id {
-        public static final int back_button = 0x7f0c0099;
-        public static final int control_layout = 0x7f0c00a6;
-        public static final int divider = 0x7f0c009f;
-        public static final int fullscreen_back_button = 0x7f0c00a4;
-        public static final int fullscreen_button = 0x7f0c00a8;
-        public static final int info_button = 0x7f0c00a5;
-        public static final int transition_bottom_frame = 0x7f0c009d;
-        public static final int transition_frame = 0x7f0c0098;
-        public static final int transition_icon = 0x7f0c009b;
-        public static final int transition_question_text = 0x7f0c009e;
-        public static final int transition_switch_action = 0x7f0c00a0;
-        public static final int transition_text = 0x7f0c009c;
-        public static final int transition_top_frame = 0x7f0c009a;
-        public static final int ui_alignment_marker = 0x7f0c00a2;
-        public static final int ui_back_button = 0x7f0c00a1;
-        public static final int ui_settings_button = 0x7f0c00a3;
-        public static final int vr_mode_button = 0x7f0c00a7;
+        public static final int back_button = 0x7f0c0095;
+        public static final int control_layout = 0x7f0c00a2;
+        public static final int divider = 0x7f0c009b;
+        public static final int fullscreen_back_button = 0x7f0c00a0;
+        public static final int fullscreen_button = 0x7f0c00a4;
+        public static final int info_button = 0x7f0c00a1;
+        public static final int transition_bottom_frame = 0x7f0c0099;
+        public static final int transition_frame = 0x7f0c0094;
+        public static final int transition_icon = 0x7f0c0097;
+        public static final int transition_question_text = 0x7f0c009a;
+        public static final int transition_switch_action = 0x7f0c009c;
+        public static final int transition_text = 0x7f0c0098;
+        public static final int transition_top_frame = 0x7f0c0096;
+        public static final int ui_alignment_marker = 0x7f0c009e;
+        public static final int ui_back_button = 0x7f0c009d;
+        public static final int ui_settings_button = 0x7f0c009f;
+        public static final int vr_mode_button = 0x7f0c00a3;
         public static final int vrwidget_inner_view = 0x7f0c000b;
     }
     public static final class layout {
         public static final int back_button = 0x7f04001b;
-        public static final int settings_button = 0x7f040034;
-        public static final int transition_view = 0x7f040036;
-        public static final int ui_layer = 0x7f040037;
-        public static final int ui_layer_with_portrait_support = 0x7f040038;
-        public static final int ui_view_embed = 0x7f040039;
+        public static final int settings_button = 0x7f040033;
+        public static final int transition_view = 0x7f040035;
+        public static final int ui_layer = 0x7f040036;
+        public static final int ui_layer_with_portrait_support = 0x7f040037;
+        public static final int ui_view_embed = 0x7f040038;
     }
     public static final class string {
         public static final int back_button_content_description = 0x7f060013;
