@@ -1,4 +1,4 @@
-#Sun Nov 05 08:08:23 PST 2017
+#Sun Nov 05 08:52:45 PST 2017
 base.0=/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_83f70bf35f2ea904f601ff47826eb6f716df300b
 renamed.1=classes2.dex
 renamed.0=classes.dex

@@ -40,12 +40,12 @@
         "source": "/Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/res/layout/design_layout_tab_text.xml"
     },
     {
-        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/layout/settings_button.xml",
-        "source": "/Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/res/layout/settings_button.xml"
-    },
-    {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
         "source": "/Users/test1/Desktop/VRSlideRide/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/layout/settings_button.xml",
+        "source": "/Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/res/layout/settings_button.xml"
     },
     {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
@@ -68,12 +68,12 @@
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_action_bar_title_item.xml"
-    },
-    {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_action_bar_title_item.xml"
     },
     {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",

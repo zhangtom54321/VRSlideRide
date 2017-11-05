@@ -69,7 +69,7 @@ public class WelcomeFragment extends Fragment {
         viewOptions.inputType = VrPanoramaView.Options.TYPE_STEREO_OVER_UNDER;
 
         // use the name of the image in the assets/ directory.
-        String panoImageName = "Demo Pic.jpg";
+        String panoImageName = "Demo Pic.png";
 
         // create the task passing the widget view and call execute to start.
         task = new ImageLoaderTask(panoWidgetView, viewOptions, panoImageName);
