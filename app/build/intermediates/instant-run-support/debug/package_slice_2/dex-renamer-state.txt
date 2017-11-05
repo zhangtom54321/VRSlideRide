@@ -1,4 +1,4 @@
-#Sun Nov 05 04:28:29 PST 2017
+#Sun Nov 05 05:46:02 PST 2017
 base.0=/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
 renamed.0=classes.dex
 file.0=/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

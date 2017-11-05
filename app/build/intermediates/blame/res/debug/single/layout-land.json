@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/layout-land/ui_layer_with_portrait_support.xml",
-        "source": "/Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/res/layout-land/ui_layer_with_portrait_support.xml"
-    },
-    {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/layout-land/back_button.xml",
         "source": "/Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/res/layout-land/back_button.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/layout-land/ui_layer_with_portrait_support.xml",
+        "source": "/Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/res/layout-land/ui_layer_with_portrait_support.xml"
     },
     {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/layout-land/settings_button.xml",

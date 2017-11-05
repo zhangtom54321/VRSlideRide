@@ -31,6 +31,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 
+
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
     private Button button;
@@ -82,9 +83,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
                 // MyActivity below should be your activity class name
 
-
+                /*
                 // INPUT
-                File file = new File("test.txt");
+                File file = new File("Powerpoint.pptx");
                 FileInputStream inputStream = null;
 
 
@@ -99,13 +100,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
                 try {
-                    response = mDBApi.putFile("/testa.txt", inputStream, file.length(), null, null);
+                    response = mDBApi.putFile("/stored.pptx", inputStream, file.length(), null, null);
                 } catch (DropboxException e) {
                     e.printStackTrace();
-                }
+                }*/
 
                 // OUTPUT
-                file = new File("output.txt");
+                File file = new File("OutPPT.pptx");
                 FileOutputStream outputStream = null;
                 try {
                     outputStream = new FileOutputStream(file);
@@ -115,10 +116,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
                 DropboxAPI.DropboxFileInfo info = null;
                 try {
-                    info = mDBApi.getFile("/testa.txt", null, outputStream, null);
+                    info = mDBApi.getFile("/stored.pptx", null, outputStream, null);
                 } catch (DropboxException e) {
                     e.printStackTrace();
                 }
+
 
                 //Toast.makeText(MainActivity.this, info.toString(), Toast.LENGTH_LONG).show();
                 //Toast.makeText(MainActivity.this,  info.toString(), Toast.LENGTH_LONG).show();
