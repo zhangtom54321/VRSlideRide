@@ -4,16 +4,40 @@
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/color/abc_primary_text_material_dark.xml"
     },
     {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/test1/.android/build-cache/eef84ea183deb74afc221b118707744fc62e9495/output/res/color/abc_tint_edittext.xml"
+    },
+    {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/test1/.android/build-cache/d9a7b3b690499b94f25ea6ab2a53c354bd082918/output/res/color/common_plus_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/color/switch_thumb_material_light.xml"
     },
     {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/test1/.android/build-cache/eef84ea183deb74afc221b118707744fc62e9495/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/test1/.android/build-cache/eef84ea183deb74afc221b118707744fc62e9495/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/test1/.android/build-cache/eef84ea183deb74afc221b118707744fc62e9495/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/test1/.android/build-cache/d9a7b3b690499b94f25ea6ab2a53c354bd082918/output/res/color/common_plus_signin_btn_text_light.xml"
     },
     {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
@@ -22,6 +46,10 @@
     {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/test1/.android/build-cache/eef84ea183deb74afc221b118707744fc62e9495/output/res/color/abc_tint_spinner.xml"
     },
     {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
@@ -33,14 +61,26 @@
     },
     {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
-        "source": "/Users/test1/.android/build-cache/7baeed3c6171ea0a28793ad2ee77bf3c0d242656/output/res/color/common_google_signin_btn_text_dark.xml"
+        "source": "/Users/test1/.android/build-cache/d9a7b3b690499b94f25ea6ab2a53c354bd082918/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/test1/.android/build-cache/eef84ea183deb74afc221b118707744fc62e9495/output/res/color/abc_tint_switch_thumb.xml"
     },
     {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
-        "source": "/Users/test1/.android/build-cache/7baeed3c6171ea0a28793ad2ee77bf3c0d242656/output/res/color/common_google_signin_btn_text_light.xml"
+        "source": "/Users/test1/.android/build-cache/d9a7b3b690499b94f25ea6ab2a53c354bd082918/output/res/color/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/test1/.android/build-cache/eef84ea183deb74afc221b118707744fc62e9495/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/test1/.android/build-cache/eef84ea183deb74afc221b118707744fc62e9495/output/res/color/abc_tint_switch_track.xml"
     }
 ]

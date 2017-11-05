@@ -23,6 +23,23 @@
         android:minSdkVersion="19"
         android:targetSdkVersion="23" />
 
+    <activity
+        android:name="com.dropbox.client2.android.AuthActivity"
+        android:configChanges="orientation|keyboard"
+        android:launchMode="singleTask"
+        android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+        <intent-filter>
+
+            <!-- Change this to be db- followed by your app key -->
+            <data android:scheme="db-lpockvr9197gefb" />
+
+            <action android:name="android.intent.action.VIEW" />
+
+            <category android:name="android.intent.category.BROWSABLE" />
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+    </activity>
+
     <uses-feature
         android:glEsVersion="0x00020000"
         android:required="true" /> <!-- Required to read/write the paired viewer's distortion parameters. -->
@@ -37,7 +54,7 @@
 
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- Required permission for App measurement to run. -->
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Optional permission for App measurement to run. -->
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 
@@ -64,22 +81,12 @@
             </intent-filter>
         </activity>
         <activity android:name="com.google.devrel.vrviewapp.VRActivity" />
-        <activity
-            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-            android:exported="false"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-            android:enabled="true"
-            android:exported="false" >
-        </receiver>
-        <receiver
-            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
-            android:enabled="true"
-            android:permission="android.permission.INSTALL_PACKAGES" >
+            android:enabled="true" >
             <intent-filter>
-                <action android:name="com.android.vending.INSTALL_REFERRER" />
+                <action android:name="com.google.android.gms.measurement.UPLOAD" />
             </intent-filter>
         </receiver>
 
@@ -87,6 +94,11 @@
             android:name="com.google.android.gms.measurement.AppMeasurementService"
             android:enabled="true"
             android:exported="false" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
 
         <receiver
             android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"

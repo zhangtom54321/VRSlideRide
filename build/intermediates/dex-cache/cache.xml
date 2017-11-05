@@ -3,48 +3,30 @@
 
     <item
         is-multidex="true"
-        jar="/Users/test1/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jar="/Users/test1/.android/build-cache/82bd72255f0dceb6a3ddd02db2b81f6c1be0d8de/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_0b838f658711af7805e15dbb43c3c1db1b1ef7d8/classes.dex" />
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34dd6a9741804a0c82e6e116af57e1b01038b434/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/test1/.android/build-cache/5c7cda7a8f15134734551991117c678744c1dc62/output/jars/classes.jar"
+        jar="/Users/test1/.android/build-cache/c20683d7a31bcb62133c9aec37eba982337493a7/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
-        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3489d56092383254b89f3f1bad32643004634f2d/classes.dex" />
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6ae9bfbe72334cb1c45c3a4b4416ed9363fdf28/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/test1/.android/build-cache/cac462b2f92ebc84a4ecf193b9246717747f1441/output/jars/classes.jar"
+        jar="/Users/test1/.android/build-cache/d9a7b3b690499b94f25ea6ab2a53c354bd082918/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c552d8ddcbbff12d8ce1f0910ac0f7cad3f8e96/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/test1/.android/build-cache/be82efdaf13cc1bd783509269ddfcc6f94a8b038/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
-        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b98a546990eebf4183548a24ae18c78a26907b3c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/test1/.android/build-cache/282f3ca426afdea1f4121874ee586bfa1284ed0a/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
-        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d8d3d324575fa8b87ec6b1eb58163e62d863cba/classes.dex" />
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_015c7c603e2e95f6dc2a7228156244302756305b/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -52,35 +34,8 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="d20966d0c18b1bedbb6b18a98dff3509c5f60e79">
+        sha1="5ec253ca129642f9afa91dbf813793779cc9f339">
         <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_644aa2bf7fa86e54a7241b56a74d075802637f55/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/test1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_eb70eb04cc6685f2ba0bdfc00a77683dc0b30d50/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/test1/.android/build-cache/21a055b361f76ced8fe941f612768ecd2c3ef2f4/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
-        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57c443ca26ef690765ca47716f85d5b9553528ac/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/test1/.android/build-cache/4b9a868e0fc493856419b5dd0ed8944003e96154/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
-        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59d1db7774999b66322ca714f0cd532171750df1/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -93,66 +48,57 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/test1/.android/build-cache/7438048327ada9443ab7fdb20edc6c296eac442e/output/jars/classes.jar"
+        jar="/Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
-        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af915675a8aa0011619f120305775a8ca6ed9e97/classes.dex" />
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_865a44010460edd05b0c458e341b4df783163ea1/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/test1/.android/build-cache/c79033204aed9e46e92545f5521ca8a76a421938/output/jars/classes.jar"
+        jar="/Users/test1/.android/build-cache/df422346f51892ec58a59d08515de6fa6f6a7373/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
-        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e2386660ff769bcd73af2fe14237bb50f29ceeca/classes.dex" />
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d75b74a358fde0471932d6abc64b8b71b2e6f91/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/test1/.android/build-cache/7baeed3c6171ea0a28793ad2ee77bf3c0d242656/output/jars/classes.jar"
+        jar="/Users/test1/.android/build-cache/3f37bcc613ea390d040c32eb43dc8b507c2c498a/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
-        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc1d896ce023c600e715948a040430f5348b8a16/classes.dex" />
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f3a6983937658238ecfb37322b68fad0c208f914/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/test1/.android/build-cache/c21b19e95d22e9c55ea7bf7b93100852aa7d925c/output/jars/classes.jar"
+        jar="/Users/test1/Desktop/VRSlideRide/app/libs/json_simple-1.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
-        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_035057407a4953d3688240d2710be655018f28a9/classes.dex" />
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/2/json_simple-1.1_c1f63207fd14f8f7b530ee0427e48c48618e0555/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/test1/.android/build-cache/cac462b2f92ebc84a4ecf193b9246717747f1441/output/jars/libs/internal_impl-24.0.0.jar"
+        jar="/Users/test1/.android/build-cache/bbee13cbf98b53f052a33ada79c9169db1a92f7d/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_d9e57d8ef50bcf75e4189ba553495ee8a18aa12d/classes.dex" />
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f39d23ff876261f0bcc0628133b922d6cbef81a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/test1/.android/build-cache/df894c53d394c431c70122e6bbe5cc120854b540/output/jars/classes.jar"
+        jar="/Users/test1/Desktop/VRSlideRide/app/libs/dropbox-android-sdk-1.6.3.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_487110bfd610d2230d9360b8a7011f23630415cf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/test1/.android/build-cache/b193a47312ee1748afed3b5a8a11196dbb005abc/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
-        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_239e51e5e348f7c00928507a90f4761679d6fc51/classes.dex" />
+        sha1="986e7a58e925c6f91b88ae8d3224a0550b65acc7">
+        <dex dex="/Users/test1/Desktop/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/2/dropbox-android-sdk-1.6.3_376089e467c3d2c0901bb5033f3c2595221d60c4/classes.dex" />
     </item>
 
 </items>

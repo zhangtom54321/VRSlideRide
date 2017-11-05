@@ -1,6 +1,38 @@
 [
     {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/test1/.android/build-cache/eef84ea183deb74afc221b118707744fc62e9495/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/test1/.android/build-cache/eef84ea183deb74afc221b118707744fc62e9495/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/test1/.android/build-cache/eef84ea183deb74afc221b118707744fc62e9495/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/test1/.android/build-cache/eef84ea183deb74afc221b118707744fc62e9495/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/test1/.android/build-cache/eef84ea183deb74afc221b118707744fc62e9495/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/test1/.android/build-cache/eef84ea183deb74afc221b118707744fc62e9495/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/test1/.android/build-cache/eef84ea183deb74afc221b118707744fc62e9495/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/test1/.android/build-cache/eef84ea183deb74afc221b118707744fc62e9495/output/res/color-v23/abc_tint_seek_thumb.xml"
     }
 ]
