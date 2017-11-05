@@ -148,6 +148,10 @@
         "source": "/Users/test1/.android/build-cache/d9a7b3b690499b94f25ea6ab2a53c354bd082918/output/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable/home.png",
+        "source": "/Users/test1/Desktop/VRSlideRide/app/src/main/res/drawable/home.png"
+    },
+    {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable/gorilla.png",
         "source": "/Users/test1/Desktop/VRSlideRide/app/src/main/res/drawable/gorilla.png"
     },

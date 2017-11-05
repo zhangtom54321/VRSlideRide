@@ -17,24 +17,24 @@ public final class R {
         public static final int transition_bottom_bar_height = 0x7f080019;
     }
     public static final class drawable {
-        public static final int quantum_ic_close_white_24 = 0x7f02007a;
-        public static final int quantum_ic_settings_white_24 = 0x7f02007d;
-        public static final int rippleable = 0x7f02007e;
-        public static final int transition = 0x7f02007f;
+        public static final int quantum_ic_close_white_24 = 0x7f02007b;
+        public static final int quantum_ic_settings_white_24 = 0x7f02007e;
+        public static final int rippleable = 0x7f02007f;
+        public static final int transition = 0x7f020080;
     }
     public static final class id {
-        public static final int back_button = 0x7f0c0095;
-        public static final int divider = 0x7f0c009b;
-        public static final int transition_bottom_frame = 0x7f0c0099;
-        public static final int transition_frame = 0x7f0c0094;
-        public static final int transition_icon = 0x7f0c0097;
-        public static final int transition_question_text = 0x7f0c009a;
-        public static final int transition_switch_action = 0x7f0c009c;
-        public static final int transition_text = 0x7f0c0098;
-        public static final int transition_top_frame = 0x7f0c0096;
-        public static final int ui_alignment_marker = 0x7f0c009e;
-        public static final int ui_back_button = 0x7f0c009d;
-        public static final int ui_settings_button = 0x7f0c009f;
+        public static final int back_button = 0x7f0c0096;
+        public static final int divider = 0x7f0c009c;
+        public static final int transition_bottom_frame = 0x7f0c009a;
+        public static final int transition_frame = 0x7f0c0095;
+        public static final int transition_icon = 0x7f0c0098;
+        public static final int transition_question_text = 0x7f0c009b;
+        public static final int transition_switch_action = 0x7f0c009d;
+        public static final int transition_text = 0x7f0c0099;
+        public static final int transition_top_frame = 0x7f0c0097;
+        public static final int ui_alignment_marker = 0x7f0c009f;
+        public static final int ui_back_button = 0x7f0c009e;
+        public static final int ui_settings_button = 0x7f0c00a0;
     }
     public static final class layout {
         public static final int back_button = 0x7f04001b;
