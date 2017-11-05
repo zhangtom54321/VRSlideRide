@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 Toast.makeText(MainActivity.this, "Please enter a number", Toast.LENGTH_SHORT).show();
             }
             else{
-                Toast.makeText(MainActivity.this, "VR Mode", Toast.LENGTH_SHORT).show();
+                //Toast.makeText(MainActivity.this, "VR Mode", Toast.LENGTH_SHORT).show();
 
                 AppKeyPair appKeys = new AppKeyPair(APP_KEY, APP_SECRET);
                 AndroidAuthSession session = new AndroidAuthSession(appKeys);

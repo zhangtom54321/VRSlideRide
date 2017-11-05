@@ -11,266 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c195366-1099-4c3d-bb3f-c21859119871" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/curvesapi_1_04.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-b+sr+Latn.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-be-rBY.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-bs-rBA.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/builds/debug/1509884162185/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/androidTest/debug/com/google/devrel/vrviewapp/test/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-safeguard/androidTest/debug/tag.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/firebase/auth/api/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/firebase/storage/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/buildId.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/buildId.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/buildId.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/buildId.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/buildId.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/google/firebase/auth/api/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/google/firebase/storage/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/buildId.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/DropboxAPI$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/DropboxAPI$Account.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/DropboxAPI$BasicUploadRequest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/DropboxAPI$ChunkedUploadRequest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/DropboxAPI$ChunkedUploadResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/DropboxAPI$ChunkedUploader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/DropboxAPI$CreatedCopyRef.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/DropboxAPI$DeltaEntry$JsonExtractor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/DropboxAPI$DeltaEntry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/DropboxAPI$DeltaPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/DropboxAPI$DropboxFileInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/DropboxAPI$DropboxInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/DropboxAPI$DropboxLink.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/DropboxAPI$Entry$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/DropboxAPI$Entry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/DropboxAPI$NameDetails.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/DropboxAPI$RequestAndResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/DropboxAPI$TeamInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/DropboxAPI$ThumbFormat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/DropboxAPI$ThumbSize.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/DropboxAPI$UploadRequest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/DropboxAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/ProgressListener$Adjusted.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/ProgressListener$ProgressHttpEntity$CountingOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/ProgressListener$ProgressHttpEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/ProgressListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/RESTUtility$RequestMethod.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/RESTUtility.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/SdkVersion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/SecureSSLSocketFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/VersionedSerializable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/android/AndroidAuthSession.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/android/AuthActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/android/AuthActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/android/AuthActivity$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/android/AuthActivity$SecurityProvider.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/android/AuthActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/exception/DropboxException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/exception/DropboxFileSizeException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/exception/DropboxIOException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/exception/DropboxLocalStorageFullException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/exception/DropboxParseException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/exception/DropboxPartialFileException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/exception/DropboxProxyChangeException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/exception/DropboxSSLException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/exception/DropboxServerException$Error.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/exception/DropboxServerException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/exception/DropboxUnlinkedException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/jsonextract/JsonBase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/jsonextract/JsonExtractionException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/jsonextract/JsonExtractor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/jsonextract/JsonList$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/jsonextract/JsonList$Extractor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/jsonextract/JsonList$WrapperIterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/jsonextract/JsonList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/jsonextract/JsonMap$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/jsonextract/JsonMap$WrappedEntry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/jsonextract/JsonMap$WrapperIterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/jsonextract/JsonMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/jsonextract/JsonThing$OptionalExtractor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/jsonextract/JsonThing.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/session/AbstractSession$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/session/AbstractSession$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/session/AbstractSession$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/session/AbstractSession$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/session/AbstractSession$DBClientConnManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/session/AbstractSession$DBConnectionReuseStrategy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/session/AbstractSession$DBKeepAliveStrategy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/session/AbstractSession$GzipDecompressingEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/session/AbstractSession$IdleConnectionCloserThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/session/AbstractSession.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/session/AccessTokenPair.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/session/AppKeyPair.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/session/RequestTokenPair.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/session/Session$AccessType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/session/Session$ProxyInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/session/Session.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/session/TokenPair.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/session/WebAuthSession$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/session/WebAuthSession$WebAuthInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/session/WebAuthSession.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/dropbox-android-sdk-1.6.3.jar_8w1jdzeg0wtplpsrb3vpakcpe/com/dropbox/client2/session/WebOAuth2Session.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/json_simple-1.1.jar_8ojhfbm72035iosgi7raz3u9t/org/json/simple/ItemList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/json_simple-1.1.jar_8ojhfbm72035iosgi7raz3u9t/org/json/simple/JSONArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/json_simple-1.1.jar_8ojhfbm72035iosgi7raz3u9t/org/json/simple/JSONAware.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/json_simple-1.1.jar_8ojhfbm72035iosgi7raz3u9t/org/json/simple/JSONObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/json_simple-1.1.jar_8ojhfbm72035iosgi7raz3u9t/org/json/simple/JSONStreamAware.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/json_simple-1.1.jar_8ojhfbm72035iosgi7raz3u9t/org/json/simple/JSONValue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/json_simple-1.1.jar_8ojhfbm72035iosgi7raz3u9t/org/json/simple/parser/ContainerFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/json_simple-1.1.jar_8ojhfbm72035iosgi7raz3u9t/org/json/simple/parser/ContentHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/json_simple-1.1.jar_8ojhfbm72035iosgi7raz3u9t/org/json/simple/parser/JSONParser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/json_simple-1.1.jar_8ojhfbm72035iosgi7raz3u9t/org/json/simple/parser/ParseException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/json_simple-1.1.jar_8ojhfbm72035iosgi7raz3u9t/org/json/simple/parser/Yylex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/json_simple-1.1.jar_8ojhfbm72035iosgi7raz3u9t/org/json/simple/parser/Yytoken.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-02-37-45-289.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-02-44-25-778.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-02-47-38-131.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-02-50-45-426.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-02-50-46-262.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-02-51-04-010.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-02-51-04-809.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-02-51-53-331.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-02-52-22-821.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-02-53-53-892.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-02-54-44-083.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-02-55-35-570.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-02-58-26-172.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-02-59-08-719.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-02-59-09-724.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-02-59-29-216.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-00-00-120.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-02-04-741.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-02-05-329.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-02-23-918.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-02-53-330.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-05-20-204.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-07-35-773.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-10-09-295.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-10-21-992.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-10-38-796.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-10-58-148.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-11-25-812.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-13-32-520.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-15-48-762.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-19-11-647.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-19-29-658.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-20-01-176.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-20-18-028.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-23-51-359.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-25-25-501.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-25-56-083.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-27-27-079.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-27-48-815.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-29-32-596.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-32-09-515.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-32-33-816.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-32-53-390.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-34-23-908.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-34-49-406.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-35-14-476.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-35-28-441.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-36-33-098.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-36-43-456.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-41-54-101.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-42-23-860.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-43-20-746.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-46-52-848.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-47-18-771.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-47-38-216.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-48-10-529.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-49-10-091.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-49-33-638.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-49-55-979.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-51-17-267.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-51-51-698.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-56-39-871.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-57-11-900.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-57-27-150.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-58-17-987.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-03-58-35-136.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-04-10-23-857.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-04-10-49-476.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-04-13-11-113.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-04-14-33-274.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-04-14-43-218.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-04-14-57-056.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-04-16-02-179.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-04-16-17-854.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-04-16-42-059.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-04-18-37-969.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-04-18-54-885.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-04-19-29-717.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-04-20-04-345.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-04-21-09-435.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-04-21-22-245.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-04-25-30-928.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-04-26-12-107.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-04-28-18-816.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-05-04-28-28-304.rawproto" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/devrel/vrviewapp/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/devrel/vrviewapp/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/devrel/vrviewapp/WelcomeFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/devrel/vrviewapp/WelcomeFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/google/devrel/vrviewapp/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/google/devrel/vrviewapp/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/google/devrel/vrviewapp/WelcomeFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/google/devrel/vrviewapp/WelcomeFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/dep/dependencies.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/dep/dependencies.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_2.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_2.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_8.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_8.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/devrel/vrviewapp/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/devrel/vrviewapp/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/devrel/vrviewapp/VRActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/devrel/vrviewapp/VRActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/devrel/vrviewapp/WelcomeFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/devrel/vrviewapp/WelcomeFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/google/devrel/vrviewapp/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/google/devrel/vrviewapp/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/google/devrel/vrviewapp/VRActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/google/devrel/vrviewapp/VRActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/google/devrel/vrviewapp/WelcomeFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/google/devrel/vrviewapp/WelcomeFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-23.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-23.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/anim.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/anim.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/color-v23.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/color-v23.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/color.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/color.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxxhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout-land.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout-land.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/buildId.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/google/devrel/vrviewapp/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/devrel/vrviewapp/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/google/devrel/vrviewapp/WelcomeFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/devrel/vrviewapp/WelcomeFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
     </list>
     <ignored path="VRSlideRide.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -334,8 +75,8 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/devrel/vrviewapp/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1365">
-              <caret line="108" column="20" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
+            <state relative-caret-position="150">
+              <caret line="69" column="18" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -2335,8 +2076,8 @@
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/google/devrel/vrviewapp/DownloadFileTask.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/google/devrel/vrviewapp/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/google/devrel/vrviewapp/WelcomeFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/google/devrel/vrviewapp/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -3288,8 +3029,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/devrel/vrviewapp/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1365">
-          <caret line="108" column="20" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
+        <state relative-caret-position="150">
+          <caret line="69" column="18" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
