@@ -24,11 +24,19 @@ dependencies {
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
+
+    // Adds Google VR spatial audio support
+    // Required for all Google VR apps
     compile 'com.android.support:appcompat-v7:26.+'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
-    testCompile 'junit:junit:4.12'
-    // Adds Google VR spatial audio support
+    compile 'com.android.support:design:26.+'
     compile 'com.google.vr:sdk-audio:1.80.0'
-    // Required for all Google VR apps
     compile 'com.google.vr:sdk-base:1.80.0'
+    compile 'com.google.vr:sdk-common:1.10.0'
+    compile 'com.google.vr:sdk-commonwidget:1.10.0'
+    compile 'com.google.vr:sdk-panowidget:1.10.0'
+    compile 'com.google.vr:sdk-videowidget:1.10.0'
+    compile 'com.google.android.exoplayer:exoplayer:r1.5.10'
+    compile 'com.google.protobuf.nano:protobuf-javanano:3.0.0-alpha-7'
+    testCompile 'junit:junit:4.12'
 }

@@ -1,100 +1,82 @@
 package com.firebirdhacks.vrslideride;
 
 import android.app.Activity;
-import android.content.Intent;
-import android.net.Uri;
-import android.opengl.GLES20;
-import android.opengl.Matrix;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.text.Html;
-import android.text.method.LinkMovementMethod;
-import android.util.Log;
-import android.widget.Toast;
+import android.support.annotation.Nullable;
+import android.support.v4.app.Fragment;
+import android.view.InflateException;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
 
-import com.google.vr.sdk.base.Eye;
-import com.google.vr.sdk.base.GvrActivity;
-import com.google.vr.sdk.base.GvrView;
-import com.google.vr.sdk.base.HeadTransform;
-import com.google.vr.sdk.base.Viewport;
+import com.google.vr.sdk.widgets.pano.VrPanoramaView;
 
-import java.io.IOException;
+public class SlideView extends android.support.v4.app.Fragment {
 
-import javax.microedition.khronos.egl.EGLConfig;
+    private VrPanoramaView panoWidgetView;
+    private ImageLoaderTask backgroundImageLoaderTask;
 
+    @Nullable
+    @Override
+    public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
+        View v = null;
+        if (panoWidgetView != null) {
+            ViewGroup parent = (ViewGroup) panoWidgetView.getParent();
+            if (parent != null)
+                parent.removeView(panoWidgetView);
+        }
+        try {
+            v = inflater.inflate(R.layout.activity_slide_view, container, false);
+        } catch (InflateException e) {
+        /* map is already there, just return view as it is */
+        }
 
-public class SlideView extends GvrActivity implements GvrView.StereoRenderer {
-
-    protected float[] mHeadView;
-
-    public void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_slide_view);
-        GvrView gvrView = (GvrView) findViewById(R.id.gvr_view);
-        // Associate a GvrView.StereoRenderer with gvrView.
-        gvrView.setRenderer(this);
-        // Associate the gvrView with this activity.
-        setGvrView(gvrView);
-
-        // Initialize other objects here.
-        mHeadView = new float[2];
-        mHeadView[0] = 10;
-        mHeadView[1] = 10;
+        //View v =  inflater.inflate(R.layout.activity_slide_view, container,false);
+        panoWidgetView = (VrPanoramaView) v.findViewById(R.id.slide_view);
+        return v;
+    }
+    public void onPause() {
+        panoWidgetView.pauseRendering();
+        super.onPause();
     }
 
     @Override
-    public void onNewFrame(HeadTransform headTransform) {
+    public void onResume() {
+        panoWidgetView.resumeRendering();
+        super.onResume();
+    }
 
+    /*@Override
+    public void onDestroy() {
+        // Destroy the widget and free memory.
+        panoWidgetView.shutdown();
+        super.onDestroy();
+    }*/
 
-        headTransform.getHeadView(mHeadView, 0);
+    private synchronized void loadPanoImage() {
+        ImageLoaderTask task = backgroundImageLoaderTask;
+        if (task != null && !task.isCancelled()) {
+            // Cancel any task from a previous loading.
+            task.cancel(true);
+        }
+
+        // pass in the name of the image to load from assets.
+        VrPanoramaView.Options viewOptions = new VrPanoramaView.Options();
+        viewOptions.inputType = VrPanoramaView.Options.TYPE_STEREO_OVER_UNDER;
+
+        // use the name of the image in the assets/ directory.
+        String panoImageName = "My-Pano-Test-Mirrored.jpg";
+
+        // create the task passing the widget view and call execute to start.
+        task = new ImageLoaderTask(panoWidgetView, viewOptions, panoImageName);
+        task.execute(getActivity().getAssets());
+        backgroundImageLoaderTask = task;
     }
 
     @Override
-    public void onDrawEye(Eye eye) {
-        GLES20.glClear(GLES20.GL_COLOR_BUFFER_BIT | GLES20.GL_DEPTH_BUFFER_BIT);
-        // Apply the eye transformation to the camera.
-        float [] mView = mHeadView;
-        float [] mCamera = mHeadView;
-        float [] mLightPosInEyeSpace = mHeadView;
-        float [] LIGHT_POS_IN_WORLD_SPACE = mHeadView;
-        int Z_NEAR = 0;
-        int Z_FAR = 10;
-        float [] mModelView = mHeadView;
-        float [] mModelCube = mHeadView;
-        float [] mModelViewProjection = mHeadView;
-
-
-        Matrix.multiplyMM(mView, 0, eye.getEyeView(), 0, mCamera, 0);
-
-        // Set the position of the light
-        Matrix.multiplyMV(mLightPosInEyeSpace, 0, mView, 0, LIGHT_POS_IN_WORLD_SPACE, 0);
-
-        // Build the ModelView and ModelViewProjection matrices
-        // for calculating cube position and light.
-        float[] perspective = eye.getPerspective(Z_NEAR, Z_FAR);
-        Matrix.multiplyMM(mModelView, 0, mView, 0, mModelCube, 0);
-        Matrix.multiplyMM(mModelViewProjection, 0, perspective, 0, mModelView, 0);
-
-        // Draw the rest of the scene.
+    public void onActivityCreated(@Nullable Bundle savedInstanceState) {
+        super.onActivityCreated(savedInstanceState);
+        loadPanoImage();
     }
 
-    @Override
-    public void onFinishFrame(Viewport viewport) {
-
-    }
-
-    @Override
-    public void onSurfaceChanged(int i, int i1) {
-
-    }
-
-    @Override
-    public void onSurfaceCreated(EGLConfig eglConfig) {
-
-    }
-
-    @Override
-    public void onRendererShutdown() {
-
-    }
 }

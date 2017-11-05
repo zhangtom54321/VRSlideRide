@@ -22,22 +22,21 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         button = (Button) findViewById(R.id.buttonGo);
         text = (EditText) findViewById(R.id.plain_text_input);
 
-        text.setOnClickListener(this);
+        //text.setOnClickListener(this);
         button.setOnClickListener(this);
     }
 
     @Override
     public void onClick(View v) {
         if(v.getId()==R.id.buttonGo){
-            Toast.makeText(MainActivity.this, "Button Pressed", Toast.LENGTH_SHORT).show();
+            //Toast.makeText(MainActivity.this, "Button Pressed", Toast.LENGTH_SHORT).show();
             if(TextUtils.isEmpty(text.getText().toString())){
                 Toast.makeText(MainActivity.this, "Please enter a code", Toast.LENGTH_SHORT).show();
             }
             else{
                 Toast.makeText(MainActivity.this, "VR Mode", Toast.LENGTH_SHORT).show();
+                startActivity(new Intent(getApplicationContext(), SlideActivity.class));
                 finish();
-                startActivity(new Intent(getApplicationContext(), SlideView.class));
-
             }
         }
     }
