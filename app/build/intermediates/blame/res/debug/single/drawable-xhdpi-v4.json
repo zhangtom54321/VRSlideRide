@@ -12,6 +12,10 @@
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/test1/.android/build-cache/7baeed3c6171ea0a28793ad2ee77bf3c0d242656/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
     },
@@ -64,6 +68,10 @@
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/test1/.android/build-cache/7baeed3c6171ea0a28793ad2ee77bf3c0d242656/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
@@ -100,6 +108,14 @@
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/test1/.android/build-cache/7baeed3c6171ea0a28793ad2ee77bf3c0d242656/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/test1/.android/build-cache/7baeed3c6171ea0a28793ad2ee77bf3c0d242656/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
@@ -108,8 +124,16 @@
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/test1/.android/build-cache/7baeed3c6171ea0a28793ad2ee77bf3c0d242656/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/test1/.android/build-cache/7baeed3c6171ea0a28793ad2ee77bf3c0d242656/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
     },
     {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
@@ -152,6 +176,10 @@
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/Users/test1/.android/build-cache/7baeed3c6171ea0a28793ad2ee77bf3c0d242656/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
@@ -164,8 +192,16 @@
         "source": "/Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/res/drawable-xhdpi-v4/quantum_ic_close_white_24.png"
     },
     {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/test1/.android/build-cache/7baeed3c6171ea0a28793ad2ee77bf3c0d242656/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/test1/.android/build-cache/7baeed3c6171ea0a28793ad2ee77bf3c0d242656/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
     },
     {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png",
@@ -174,6 +210,10 @@
     {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/test1/.android/build-cache/7baeed3c6171ea0a28793ad2ee77bf3c0d242656/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
@@ -192,16 +232,28 @@
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_focused_holo.9.png",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/test1/.android/build-cache/7baeed3c6171ea0a28793ad2ee77bf3c0d242656/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/test1/.android/build-cache/7baeed3c6171ea0a28793ad2ee77bf3c0d242656/output/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
     },
     {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/test1/.android/build-cache/7baeed3c6171ea0a28793ad2ee77bf3c0d242656/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
     },
     {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",

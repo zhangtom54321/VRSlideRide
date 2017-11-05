@@ -11,21 +11,21 @@ public final class R {
         public static final int button_padding = 0x7f080050;
     }
     public static final class drawable {
-        public static final int quantum_ic_cardboard_white_24 = 0x7f02004f;
-        public static final int quantum_ic_close_white_24 = 0x7f020050;
-        public static final int quantum_ic_fullscreen_white_24 = 0x7f020051;
-        public static final int quantum_ic_info_white_24 = 0x7f020052;
+        public static final int quantum_ic_cardboard_white_24 = 0x7f020064;
+        public static final int quantum_ic_close_white_24 = 0x7f020065;
+        public static final int quantum_ic_fullscreen_white_24 = 0x7f020066;
+        public static final int quantum_ic_info_white_24 = 0x7f020067;
     }
     public static final class id {
-        public static final int control_layout = 0x7f0c0094;
-        public static final int fullscreen_back_button = 0x7f0c0092;
-        public static final int fullscreen_button = 0x7f0c0096;
-        public static final int info_button = 0x7f0c0093;
-        public static final int vr_mode_button = 0x7f0c0095;
+        public static final int control_layout = 0x7f0c00a6;
+        public static final int fullscreen_back_button = 0x7f0c00a4;
+        public static final int fullscreen_button = 0x7f0c00a8;
+        public static final int info_button = 0x7f0c00a5;
+        public static final int vr_mode_button = 0x7f0c00a7;
         public static final int vrwidget_inner_view = 0x7f0c000b;
     }
     public static final class layout {
-        public static final int ui_view_embed = 0x7f040038;
+        public static final int ui_view_embed = 0x7f040039;
     }
     public static final class style {
         public static final int ControlButton = 0x7f0900be;

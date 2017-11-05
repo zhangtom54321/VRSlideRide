@@ -32,6 +32,14 @@
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/test1/.android/build-cache/7baeed3c6171ea0a28793ad2ee77bf3c0d242656/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/test1/.android/build-cache/7baeed3c6171ea0a28793ad2ee77bf3c0d242656/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
         "merged": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
         "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/color/abc_primary_text_material_light.xml"
     }

@@ -1,80 +1,70 @@
-/*
- * Copyright 2016 Google Inc. All Rights Reserved.
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- *   http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
 package com.google.devrel.vrviewapp;
 
-import android.os.Bundle;
-import android.support.design.widget.TabLayout;
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentStatePagerAdapter;
-import android.support.v4.view.PagerAdapter;
-import android.support.v4.view.ViewPager;
+import android.content.Intent;
+import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
+import android.os.Bundle;
+import android.text.TextUtils;
+import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.Toast;
 
-public class MainActivity extends AppCompatActivity {
+import com.google.android.gms.tasks.OnFailureListener;
+import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.firebase.storage.FirebaseStorage;
+import com.google.firebase.storage.StorageReference;
+
+public class MainActivity extends AppCompatActivity implements View.OnClickListener{
+
+    private Button button;
+    private EditText text;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
 
-        TabLayout tabLayout = (TabLayout) findViewById(R.id.tab_layout);
-        assert tabLayout != null;
-        tabLayout.addTab(tabLayout.newTab().setText(R.string.welcome));
-        tabLayout.addTab(tabLayout.newTab().setText(R.string.venue));
-        tabLayout.setTabGravity(TabLayout.GRAVITY_FILL);
+        button = (Button) findViewById(R.id.buttonGo);
+        text = (EditText) findViewById(R.id.plain_text_input);
 
-        final ViewPager viewPager = (ViewPager) findViewById(R.id.pager);
-        final PagerAdapter adapter = new FragmentStatePagerAdapter(getSupportFragmentManager()) {
+        text.setOnClickListener(this);
+        button.setOnClickListener(this);
+    }
 
-            @Override
-            public Fragment getItem(int position) {
-                switch (position) {
-                    case 0:
-                        return new WelcomeFragment();
-                    case 1:
-                        return new GorillaFragment();
-                }
-                return null;
+    @Override
+    public void onClick(View v) {
+        if(v.getId()==R.id.buttonGo){
+            Toast.makeText(MainActivity.this, "Button Pressed", Toast.LENGTH_SHORT).show();
+            if(TextUtils.isEmpty(text.getText().toString())){
+                Toast.makeText(MainActivity.this, "Please enter a code", Toast.LENGTH_SHORT).show();
             }
+            else{
+                Toast.makeText(MainActivity.this, "VR Mode", Toast.LENGTH_SHORT).show();
 
-            @Override
-            public int getCount() {
-                return 2;
-            }
-        };
-        assert viewPager != null;
-        viewPager.setAdapter(adapter);
-        viewPager.addOnPageChangeListener(new TabLayout.TabLayoutOnPageChangeListener(tabLayout));
-        tabLayout.setOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
-            @Override
-            public void onTabSelected(TabLayout.Tab tab) {
-                viewPager.setCurrentItem(tab.getPosition());
-            }
+                // Create a storage reference from our app
+                FirebaseStorage storage = FirebaseStorage.getInstance();
+                StorageReference storageRef = storage.getReference();
+                StorageReference pathReference = storageRef.child("images/certificate.pdf");
 
-            @Override
-            public void onTabUnselected(TabLayout.Tab tab) {
+                final long ONE_MEGABYTE = 1024 * 1024;
+                pathReference.getBytes(ONE_MEGABYTE).addOnSuccessListener(new OnSuccessListener<byte[]>() {
+                    @Override
+                    public void onSuccess(byte[] bytes) {
+                        // Data for "images/island.jpg" is returns, use this as needed
+                    }
+                }).addOnFailureListener(new OnFailureListener() {
+                    @Override
+                    public void onFailure(@NonNull Exception exception) {
+                        // Handle any errors
+                    }
+                });
 
-            }
 
-            @Override
-            public void onTabReselected(TabLayout.Tab tab) {
+                finish();
+                startActivity(new Intent(getApplicationContext(), VRActivity.class));
 
             }
-        });
+        }
     }
 }
