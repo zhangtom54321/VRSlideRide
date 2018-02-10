@@ -111,7 +111,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 }*/
 
                 // OUTPUT
-                File file = new File("OutPPT.pptx");
+                /*File file = new File("OutPPT.pptx");
                 FileOutputStream outputStream = null;
                 try {
                     outputStream = new FileOutputStream(file);
@@ -124,7 +124,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     info = mDBApi.getFile("/stored.pptx", null, outputStream, null);
                 } catch (DropboxException e) {
                     e.printStackTrace();
-                }
+                }*/
 
 
                 //Toast.makeText(MainActivity.this, info.toString(), Toast.LENGTH_LONG).show();

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/test1/Desktop/VRSlideRide/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+        "outputFile": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 351
                 },
                 "from": {
-                    "file": "/Users/test1/Desktop/VRSlideRide/app/src/main/res/values-v21/styles.xml",
+                    "file": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/res/values-v21/styles.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,

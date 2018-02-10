@@ -1,4 +1,5 @@
 apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
 
 android {
     compileSdkVersion 23
@@ -10,10 +11,13 @@ android {
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"
+        multiDexEnabled true
     }
     buildTypes {
         release {
             minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'),
+                    'proguard-rules.pro'
         }
     }
 }
@@ -28,10 +32,13 @@ dependencies {
     compile 'com.google.vr:sdk-panowidget:1.10.0'
     compile 'com.google.vr:sdk-videowidget:1.10.0'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
+
+
     compile files('libs/dropbox-android-sdk-1.6.3.jar')
     compile files('libs/json_simple-1.1.jar')
     compile files('libs/curvesapi-1.04.jar')
+
+
+    compile('com.google.api-client:google-api-client-android:1.23.0')
+    compile('com.google.apis:google-api-services-slides:v1-rev283-1.23.0')
 }
-
-
-apply plugin: 'com.google.gms.google-services'

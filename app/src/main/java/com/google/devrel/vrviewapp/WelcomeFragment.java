@@ -21,11 +21,130 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import com.google.vr.sdk.widgets.pano.VrPanoramaView;
+import java.io.File;
+import android.widget.Toast;
+import android.util.Log;
+
+import com.google.android.gms.common.ConnectionResult;
+import com.google.android.gms.common.GoogleApiAvailability;
+import com.google.api.client.extensions.android.http.AndroidHttp;
+import com.google.api.client.googleapis.extensions.android.gms.auth.GoogleAccountCredential;
+import com.google.api.client.googleapis.extensions.android.gms.auth.GooglePlayServicesAvailabilityIOException;
+import com.google.api.client.googleapis.extensions.android.gms.auth.UserRecoverableAuthIOException;
+
+import com.google.api.client.auth.oauth2.Credential;
+import com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeFlow;
+import com.google.api.client.googleapis.auth.oauth2.GoogleClientSecrets;
+import com.google.api.client.googleapis.javanet.GoogleNetHttpTransport;
+import com.google.api.client.http.HttpTransport;
+import com.google.api.client.json.jackson2.JacksonFactory;
+import com.google.api.client.json.JsonFactory;
+import com.google.api.client.util.store.FileDataStoreFactory;
+
+import com.google.android.gms.common.ConnectionResult;
+import com.google.android.gms.common.GoogleApiAvailability;
+import com.google.api.client.extensions.android.http.AndroidHttp;
+import com.google.api.client.googleapis.extensions.android.gms.auth.GoogleAccountCredential;
+import com.google.api.client.googleapis.extensions.android.gms.auth.GooglePlayServicesAvailabilityIOException;
+import com.google.api.client.googleapis.extensions.android.gms.auth.UserRecoverableAuthIOException;
+
+import com.google.api.client.http.HttpTransport;
+import com.google.api.client.json.JsonFactory;
+import com.google.api.client.json.jackson2.JacksonFactory;
+import com.google.api.client.util.ExponentialBackOff;
+
+import com.google.api.client.auth.oauth2.Credential;
+import com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeFlow;
+import com.google.api.client.googleapis.auth.oauth2.GoogleClientSecrets;
+import com.google.api.client.googleapis.javanet.GoogleNetHttpTransport;
+import com.google.api.client.http.HttpTransport;
+import com.google.api.client.json.jackson2.JacksonFactory;
+import com.google.api.client.json.JsonFactory;
+import com.google.api.client.util.store.FileDataStoreFactory;
+
+import com.google.api.services.slides.v1.SlidesScopes;
+
+import com.google.api.services.slides.v1.model.*;
+
+import android.Manifest;
+import android.accounts.AccountManager;
+import android.app.Activity;
+import android.app.Dialog;
+import android.app.ProgressDialog;
+import android.content.Context;
+import android.content.Intent;
+import android.content.SharedPreferences;
+import android.net.ConnectivityManager;
+import android.net.NetworkInfo;
+import android.os.AsyncTask;
+import android.os.Bundle;
+import android.support.annotation.NonNull;
+import android.text.TextUtils;
+import android.text.method.ScrollingMovementMethod;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.LinearLayout;
+import android.widget.TextView;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.util.Arrays;
+import java.util.List;
+
+import com.google.android.gms.common.ConnectionResult;
+import com.google.android.gms.common.GoogleApiAvailability;
+import com.google.api.client.extensions.android.http.AndroidHttp;
+import com.google.api.client.googleapis.extensions.android.gms.auth.GoogleAccountCredential;
+import com.google.api.client.googleapis.extensions.android.gms.auth.GooglePlayServicesAvailabilityIOException;
+import com.google.api.client.googleapis.extensions.android.gms.auth.UserRecoverableAuthIOException;
+
+import com.google.api.client.http.HttpTransport;
+import com.google.api.client.json.JsonFactory;
+import com.google.api.client.json.jackson2.JacksonFactory;
+import com.google.api.client.util.ExponentialBackOff;
+
+import com.google.api.services.slides.v1.SlidesScopes;
+
+import com.google.api.services.slides.v1.model.*;
+
+import android.Manifest;
+import android.accounts.AccountManager;
+import android.app.Activity;
+import android.app.Dialog;
+import android.app.ProgressDialog;
+import android.content.Context;
+import android.content.Intent;
+import android.content.SharedPreferences;
+import android.net.ConnectivityManager;
+import android.net.NetworkInfo;
+import android.os.AsyncTask;
+import android.os.Bundle;
+import android.support.annotation.NonNull;
+import android.text.TextUtils;
+import android.text.method.ScrollingMovementMethod;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.LinearLayout;
+import android.widget.TextView;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 
 /**
  * Fragment for handling the Welcome tab.
  */
-public class WelcomeFragment extends Fragment {
+public class WelcomeFragment extends Fragment{
 
     private VrPanoramaView panoWidgetView;
     private ImageLoaderTask backgroundImageLoaderTask;
@@ -68,6 +187,45 @@ public class WelcomeFragment extends Fragment {
         VrPanoramaView.Options viewOptions = new VrPanoramaView.Options();
         viewOptions.inputType = VrPanoramaView.Options.TYPE_STEREO_OVER_UNDER;
 
+
+        // **NEW TEST CODE STARTS HERE**
+        /*String url = "https://docs.google.com/presentation/d/1akVVQlT-FNg3_XPflwpGC1JRVcnlW0Tnd4STg_XlWfk/edit";
+        String presentationID = url.substring(39, 83);
+
+        //Toast toast = Toast.makeText(getActivity(), presentationID, Toast.LENGTH_LONG);
+        //toast.show();
+
+        com.google.api.services.slides.v1.Slides mService = null;
+        String[] SCOPES = { SlidesScopes.PRESENTATIONS_READONLY };
+        GoogleAccountCredential mCredential = GoogleAccountCredential.usingOAuth2(
+                getContext(), Arrays.asList(SCOPES))
+                .setBackOff(new ExponentialBackOff());
+
+
+
+        Presentation response = new Presentation();
+        try {
+            response = mService.presentations().get(presentationID).execute();
+        }
+        catch (IOException e) {
+            Toast toast = Toast.makeText(getActivity(), "IOEXCEPTION", Toast.LENGTH_LONG);
+            toast.show();
+            Log.d("ERROR", "IOException");
+            System.exit(0);
+        }
+        List<Page> slides = response.getSlides();*/
+
+        /*File copyMetadata = new File().setName("Slideshow");
+        File presentationCopyFile =
+                driveService.files().copy(presentationID, copyMetadata).execute();
+        String presentationCopyId = presentationCopyFile.getId();*/
+
+
+
+
+
+
+        // UNCOMMENT LINE OF CODE BELOW TO GET BACK TO FORMER THING
         // use the name of the image in the assets/ directory.
         String panoImageName = "Demo Pic.png";
 

@@ -1,25 +1,20 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:16:1-53:12
+ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:2:1-39:12
 	package
-		ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:17:5-42
-		INJECTED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:16:11-69
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:19:5-36:19
-MERGED from [com.android.support:design:23.3.0] /Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/test1/.android/build-cache/4d4bfe740075f5c4c7480a3120722431914e4068/output/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/test1/.android/build-cache/c1ad4967c4a64db59d31669a1c7eca871f3eecf3/output/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/test1/.android/build-cache/df894c53d394c431c70122e6bbe5cc120854b540/output/AndroidManifest.xml:9:5-20
+ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:5:5-22:19
 MERGED from [com.google.firebase:firebase-core:9.0.0] /Users/test1/.android/build-cache/6c0941ed4f948762f84b161a8459976652c613e8/output/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/test1/.android/build-cache/82bd72255f0dceb6a3ddd02db2b81f6c1be0d8de/output/AndroidManifest.xml:26:5-41:19
 MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/test1/.android/build-cache/3f37bcc613ea390d040c32eb43dc8b507c2c498a/output/AndroidManifest.xml:26:5-41:19
@@ -28,82 +23,74 @@ MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build
 MERGED from [com.google.firebase:firebase-common:9.0.0] /Users/test1/.android/build-cache/df422346f51892ec58a59d08515de6fa6f6a7373/output/AndroidManifest.xml:5:5-12:19
 MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /Users/test1/.android/build-cache/bbee13cbf98b53f052a33ada79c9169db1a92f7d/output/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-basement:9.0.0] /Users/test1/.android/build-cache/c20683d7a31bcb62133c9aec37eba982337493a7/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:design:23.3.0] /Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/test1/.android/build-cache/4d4bfe740075f5c4c7480a3120722431914e4068/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/test1/.android/build-cache/c1ad4967c4a64db59d31669a1c7eca871f3eecf3/output/AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-v4:23.3.0] /Users/test1/.android/build-cache/32952fcb4f9ca2527a1eab779b2701c03a18012a/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/test1/.android/build-cache/df894c53d394c431c70122e6bbe5cc120854b540/output/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:22:9-41
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:23:9-35
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:9:9-35
 	android:allowBackup
-		ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:20:9-35
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:21:9-43
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:24:9-40
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:10:9-40
 activity#com.google.devrel.vrviewapp.MainActivity
-ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:25:9-34:20
+ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:11:9-20:20
 	android:label
-		ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:27:13-45
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:13:13-45
 	android:theme
-		ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:28:13-56
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:14:13-56
 	android:name
-		ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:26:13-41
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:12:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:29:13-33:29
+ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:30:17-69
+ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:30:25-66
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:32:17-77
+ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:32:27-74
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:18:27-74
 activity#com.google.devrel.vrviewapp.VRActivity
-ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:35:9-57
+ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:21:9-57
 	android:name
-		ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:35:19-45
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:21:19-45
 activity#com.dropbox.client2.android.AuthActivity
-ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:38:5-50:16
+ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:24:5-36:16
 	android:launchMode
-		ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:40:9-40
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:26:9-40
 	android:configChanges
-		ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:42:9-53
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:28:9-53
 	android:theme
-		ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:41:9-68
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:27:9-68
 	android:name
-		ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:39:9-64
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:25:9-64
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:43:9-49:25
+ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:29:9-35:25
 data
-ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:45:13-57
+ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:31:13-57
 	android:scheme
-		ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:45:19-54
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:31:19-54
 action#android.intent.action.VIEW
-ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:46:13-65
+ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:32:13-65
 	android:name
-		ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:46:21-62
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:32:21-62
 category#android.intent.category.BROWSABLE
-ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:47:13-73
+ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:33:13-73
 	android:name
-		ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:47:23-71
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:33:23-71
 category#android.intent.category.DEFAULT
-ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:48:13-72
+ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:34:13-72
 	android:name
-		ADDED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:48:23-69
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:34:23-69
 uses-sdk
-INJECTED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:23.3.0] /Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/test1/.android/build-cache/4d4bfe740075f5c4c7480a3120722431914e4068/output/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/test1/.android/build-cache/c1ad4967c4a64db59d31669a1c7eca871f3eecf3/output/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:recyclerview-v7:23.3.0] /Users/test1/.android/build-cache/54086ba3d83a474e8442557a50d387854fc24c30/output/AndroidManifest.xml:20:5-43
-MERGED from [com.google.vr:sdk-audio:1.10.0] /Users/test1/.android/build-cache/c406f7bf0e3739f63cd14672cf1524c2fcf6ff00/output/AndroidManifest.xml:3:5-73
-MERGED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:5:5-73
-MERGED from [com.google.vr:sdk-panowidget:1.10.0] /Users/test1/.android/build-cache/94b0d90bae4b565f1ca92c1ab721b6417816ca96/output/AndroidManifest.xml:3:5-73
-MERGED from [com.google.vr:sdk-videowidget:1.10.0] /Users/test1/.android/build-cache/efb9c2e8b873d158067469b558c8b802f0d1495a/output/AndroidManifest.xml:3:5-73
-MERGED from [com.google.android.exoplayer:exoplayer:r1.5.10] /Users/test1/.android/build-cache/782558586c7f307e7148020c93b2583b17a4ced0/output/AndroidManifest.xml:24:5-26:41
-MERGED from [com.google.vr:sdk-commonwidget:1.10.0] /Users/test1/.android/build-cache/90842823c72c9d1eb79b994279a362464f4370c4/output/AndroidManifest.xml:3:5-73
-MERGED from [com.google.vr:sdk-common:1.10.0] /Users/test1/.android/build-cache/60413876a4f0c82d0503eb68db7b879c2c205470/output/AndroidManifest.xml:3:5-73
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/test1/.android/build-cache/df894c53d394c431c70122e6bbe5cc120854b540/output/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.google.firebase:firebase-core:9.0.0] /Users/test1/.android/build-cache/6c0941ed4f948762f84b161a8459976652c613e8/output/AndroidManifest.xml:4:5-42
 MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/test1/.android/build-cache/82bd72255f0dceb6a3ddd02db2b81f6c1be0d8de/output/AndroidManifest.xml:18:5-42
 MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/test1/.android/build-cache/3f37bcc613ea390d040c32eb43dc8b507c2c498a/output/AndroidManifest.xml:18:5-42
@@ -112,42 +99,28 @@ MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build
 MERGED from [com.google.firebase:firebase-common:9.0.0] /Users/test1/.android/build-cache/df422346f51892ec58a59d08515de6fa6f6a7373/output/AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /Users/test1/.android/build-cache/bbee13cbf98b53f052a33ada79c9169db1a92f7d/output/AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-basement:9.0.0] /Users/test1/.android/build-cache/c20683d7a31bcb62133c9aec37eba982337493a7/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:23.3.0] /Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/test1/.android/build-cache/4d4bfe740075f5c4c7480a3120722431914e4068/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/test1/.android/build-cache/c1ad4967c4a64db59d31669a1c7eca871f3eecf3/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] /Users/test1/.android/build-cache/54086ba3d83a474e8442557a50d387854fc24c30/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.3.0] /Users/test1/.android/build-cache/32952fcb4f9ca2527a1eab779b2701c03a18012a/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.vr:sdk-audio:1.10.0] /Users/test1/.android/build-cache/c406f7bf0e3739f63cd14672cf1524c2fcf6ff00/output/AndroidManifest.xml:3:5-73
+MERGED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:5:5-73
+MERGED from [com.google.vr:sdk-panowidget:1.10.0] /Users/test1/.android/build-cache/94b0d90bae4b565f1ca92c1ab721b6417816ca96/output/AndroidManifest.xml:3:5-73
+MERGED from [com.google.vr:sdk-videowidget:1.10.0] /Users/test1/.android/build-cache/efb9c2e8b873d158067469b558c8b802f0d1495a/output/AndroidManifest.xml:3:5-73
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.10] /Users/test1/.android/build-cache/782558586c7f307e7148020c93b2583b17a4ced0/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.vr:sdk-commonwidget:1.10.0] /Users/test1/.android/build-cache/90842823c72c9d1eb79b994279a362464f4370c4/output/AndroidManifest.xml:3:5-73
+MERGED from [com.google.vr:sdk-common:1.10.0] /Users/test1/.android/build-cache/60413876a4f0c82d0503eb68db7b879c2c205470/output/AndroidManifest.xml:3:5-73
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/test1/.android/build-cache/df894c53d394c431c70122e6bbe5cc120854b540/output/AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:23.3.0] /Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml
-uses-feature#0x00020000
-ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:6:5-77
-	android:glEsVersion
-		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:6:19-51
-	android:required
-		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:6:52-75
-uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:9:5-79
-IMPLIED from /Users/test1/Desktop/VRSlideRide/app/src/main/AndroidManifest.xml:16:1-53:12 reason: com.google.vr.sdk.base requested WRITE_EXTERNAL_STORAGE
-	android:name
-		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:9:22-77
-uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:10:5-80
-	android:name
-		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:10:22-78
-uses-feature#android.software.vr.mode
-ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:13:5-85
-	android:required
-		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:13:59-83
-	android:name
-		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:13:19-58
-uses-feature#android.hardware.vr.high_performance
-ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:15:5-97
-	android:required
-		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:15:71-95
-	android:name
-		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:15:19-70
+		INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/test1/.android/build-cache/82bd72255f0dceb6a3ddd02db2b81f6c1be0d8de/output/AndroidManifest.xml:21:5-67
 MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/test1/.android/build-cache/3f37bcc613ea390d040c32eb43dc8b507c2c498a/output/AndroidManifest.xml:21:5-67
@@ -268,3 +241,30 @@ ADDED from [com.google.android.gms:play-services-basement:9.0.0] /Users/test1/.a
 		ADDED from [com.google.android.gms:play-services-basement:9.0.0] /Users/test1/.android/build-cache/c20683d7a31bcb62133c9aec37eba982337493a7/output/AndroidManifest.xml:23:13-66
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:9.0.0] /Users/test1/.android/build-cache/c20683d7a31bcb62133c9aec37eba982337493a7/output/AndroidManifest.xml:22:13-58
+uses-feature#0x00020000
+ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:6:5-77
+	android:glEsVersion
+		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:6:19-51
+	android:required
+		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:6:52-75
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:9:5-79
+IMPLIED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:2:1-39:12 reason: com.google.vr.sdk.base requested WRITE_EXTERNAL_STORAGE
+	android:name
+		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:10:22-78
+uses-feature#android.software.vr.mode
+ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:13:5-85
+	android:required
+		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:13:59-83
+	android:name
+		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:13:19-58
+uses-feature#android.hardware.vr.high_performance
+ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:15:5-97
+	android:required
+		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:15:71-95
+	android:name
+		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:15:19-70

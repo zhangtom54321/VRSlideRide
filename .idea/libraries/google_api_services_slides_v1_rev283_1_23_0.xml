@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="google-api-services-slides-v1-rev283-1.23.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-slides/v1-rev283-1.23.0/99c690dc73b024980754454f16af278d9f73bec3/google-api-services-slides-v1-rev283-1.23.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-slides/v1-rev283-1.23.0/fb95313cc5feaa93fee7c3e7ef95b370c64d6afe/google-api-services-slides-v1-rev283-1.23.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

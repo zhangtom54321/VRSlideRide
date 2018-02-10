@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="233061162317617848" name="back_button_content_description">"артка"</string>
+    <string msgid="2401572676578172896" name="cancel_button">"Жокко чыгаруу"</string>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> учурда жеткиликсиз бир же бир нече Google Play кызматтарын талап кылууда. Жардам үчүн өндүрүүчүгө кайрылыңыз."</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Google Play кызматтарын иштетүү"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Google Play кызматтарын иштетмейиңизче <ns1:g id="APP_NAME">%1$s</ns1:g> иштебейт."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play кызматтарын иштетүү"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Google Play кызматтарын алуу"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"Google Play кызматтарысыз <ns1:g id="APP_NAME">%1$s</ns1:g> иштебейт, алар телефонуңузда жок болуп жатат."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"Google Play кызматтарысыз <ns1:g id="APP_NAME">%1$s</ns1:g> иштебейт, алар планшетиңизде жок болуп жатат."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play кызматтарын алуу"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"Көрсөтүлгөн каттоо эсеби бул түзмөктө жок. Башка каттоо эсебин тандаңыз."</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"Каттоо эсеби жараксыз"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"Google Play Кызматтарына туташуу үчүн, мобилдик туташуу талап кылынат."</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"Тармак катасы"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play кызматтарынын катасы"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> талап кылган аракетти аткарыңыз."</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"Google Play кызматтарына аракет керек"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"Каттоо эсептерине чектелген профилден кирүү колдоого алынбайт."</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"Чектелген профиль"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"Белгиленген каттоо эсепке кирүү катасы. Башка каттоо эсебин тандаңыз."</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"Кирүү ишке ашкан жок"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> Google Play кызматтары боюнча маселеге дуушар болууда. Эгер көйгөй жоголбосо, жардам үчүн иштеп чыгуучуга кайрылыңыз."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> Google Play кызматтарына ишенет, аларды түзмөгүңүз колдоого албайт. Жардам үчүн өндүрүүчүгө кайрылыңыз."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Google Play кызматтары"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Жаңыртуу"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Google Play кызматтары жаңыртылмайынча <ns1:g id="APP_NAME">%1$s</ns1:g> иштебейт."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play кызматтарын жаңыртуу"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Google Play кызматтарысыз <ns1:g id="APP_NAME">%1$s</ns1:g> иштебейт, алар учурда жаңыртылууда."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Google Play кызматтары жаңыртылууда"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play кызматтарынын жаңы версиясы талап кылынат. Бир аздан кийин ал өзү эле жаңыртылат."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Телефондо ачык"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Кирүү"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google менен кирүү"</string>
+    <string msgid="2482357845034618478" name="dialog_button_got_it">"ТҮШҮНДҮМ"</string>
+    <string msgid="4505853433204459373" name="dialog_button_open_help_center">"ЖАРДАМ БОРБОРУН АЧУУ"</string>
+    <string msgid="4028688231551615655" name="dialog_message_incompatible_phone">"Daydream\'ге шайкеш келген телефон талап кылынат. Кеңири маалымат үчүн, жардам борборуна кайрылыңыз."</string>
+    <string msgid="3560856374975640601" name="dialog_message_no_cardboard">"Көрүү каражатын конфигурациялоо үчүн Cardboard колдонмосун алыңыз."</string>
+    <string msgid="418839137454435402" name="dialog_message_setup">"Мыкты мүмкүнчүлүктөрдү колдонуу үчүн көрүү каражатын жөндөңүз."</string>
+    <string msgid="7887077605817014784" name="dialog_title">"Конфигурациялоо"</string>
+    <string msgid="4515090705573059650" name="dialog_title_incompatible_phone">"Телефон шайкеш келбейт"</string>
+    <string msgid="2594928940370730859" name="dialog_title_vr_core_not_enabled">"Жөндөө талап кылынат"</string>
+    <string msgid="6322165810291059770" name="dialog_title_vr_core_not_installed">"Орнотуу талап кылынат"</string>
+    <string msgid="455961049302726493" name="dialog_title_warning">"Эскертүү"</string>
+    <string msgid="1966424794507569244" name="dialog_vr_core_not_enabled">"Бул колдонмо Google VR кызматтарын күйгүзбөсө туура иштебей калышы мүмкүн. Улантуудан мурда телефондун жөндөөлөрүнөн Google VR кызматтарын күйгүзүңүз."</string>
+    <string msgid="7122144659930752678" name="dialog_vr_core_not_installed">"Бул колдонмо Google VR кызматтарысыз туура иштебей калышы мүмкүн. Улантуудан мурда Play Дүкөндөн Google VR кызматтарын орнотуп алыңыз."</string>
+    <string msgid="6145412853379876634" name="go_to_playstore_button">"Play Дүкөнгө өтүңүз"</string>
+    <string msgid="6878752668266068283" name="go_to_vr_listeners_settings_button">"Жөндөөлөргө өтүү"</string>
+    <string msgid="5324772199357788720" name="no_browser_text">"Вебсайтты ача турган бир да серепчи табылган жок"</string>
+    <string msgid="2306297166333705530" name="place_your_phone_into_cardboard">"Телефонуңузду Cardboard көрүү каражатына туташтрңз"</string>
+    <string msgid="5433369525545709510" name="place_your_viewer_into_viewer_format">"Телефонуңузду <ns1:g id="VIEWER_NAME">%s</ns1:g> көрүү каражатына туташтырыңыз"</string>
+    <string msgid="3719682527828378500" name="settings_button_content_description">"жөндөөлөр"</string>
+    <string msgid="20964482303479393" name="setup_button">"Жөндөө"</string>
+    <string msgid="7856245902137004584" name="switch_viewer_action">"Которуштур"</string>
+    <string msgid="816514297101696447" name="switch_viewer_prompt">"Башка көрүү каражатын колдонуп жатасызбы?"</string>
+</resources>
