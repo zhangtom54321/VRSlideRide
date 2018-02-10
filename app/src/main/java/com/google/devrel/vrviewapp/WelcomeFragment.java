@@ -191,7 +191,7 @@ public class WelcomeFragment extends Fragment{
 
 
         // **NEW TEST CODE STARTS HERE**
-        String url = "https://docs.google.com/presentation/d/1akVVQlT-FNg3_XPflwpGC1JRVcnlW0Tnd4STg_XlWfk/edit";
+        /*String url = "https://docs.google.com/presentation/d/1akVVQlT-FNg3_XPflwpGC1JRVcnlW0Tnd4STg_XlWfk/edit";
         //String presentationID = url.substring(39, 83);
         String presentationID = "1akVVQlT-FNg3_XPflwpGC1JRVcnlW0Tnd4STg_XlWfk";
 
@@ -217,7 +217,7 @@ public class WelcomeFragment extends Fragment{
         }
         catch (IOException e) {
             System.exit(0);
-        }
+        }*/
 
 
 
