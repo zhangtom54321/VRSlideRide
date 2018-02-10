@@ -292,8 +292,27 @@
                     "startLine": 17,
                     "startColumn": 4,
                     "startOffset": 1101,
+                    "endColumn": 72,
+                    "endOffset": 1169
+                },
+                "from": {
+                    "file": "/Users/test1/.android/build-cache/7bf95b18c99c80fd8332ebd650091839c10df331/output/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 72,
+                        "endOffset": 350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1174,
                     "endColumn": 54,
-                    "endOffset": 1151
+                    "endOffset": 1224
                 },
                 "from": {
                     "file": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
@@ -308,11 +327,11 @@
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1156,
+                    "startOffset": 1229,
                     "endColumn": 62,
-                    "endOffset": 1214
+                    "endOffset": 1287
                 },
                 "from": {
                     "file": "/Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
@@ -327,12 +346,12 @@
             },
             {
                 "to": {
-                    "startLine": 19,
+                    "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1219,
-                    "endLine": 22,
+                    "startOffset": 1292,
+                    "endLine": 23,
                     "endColumn": 12,
-                    "endOffset": 1396
+                    "endOffset": 1469
                 },
                 "from": {
                     "file": "/Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",

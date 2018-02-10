@@ -66,7 +66,20 @@
     <string msgid="7122144659930752678" name="dialog_vr_core_not_installed">"Deze app werkt mogelijk niet correct zonder VR-services van Google. Installeer VR-services van Google via de Play Store voordat je doorgaat."</string>
     <string msgid="6145412853379876634" name="go_to_playstore_button">"Naar de Play Store"</string>
     <string msgid="6878752668266068283" name="go_to_vr_listeners_settings_button">"Naar Instellingen"</string>
+    <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"Casten"</string>
+    <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"Zoeken naar apparaten…"</string>
+    <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"Verbinding maken met apparaat"</string>
+    <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"Verbinding verbreken"</string>
+    <string msgid="3641544772007543920" name="mr_media_route_controller_no_info_available">"Geen informatie beschikbaar"</string>
+    <string msgid="8315773974194466049" name="mr_media_route_controller_pause">"Onderbreken"</string>
+    <string msgid="5214423499524760404" name="mr_media_route_controller_play">"Afspelen"</string>
+    <string msgid="379358765881274425" name="mr_media_route_controller_settings_description">"Route-instellingen"</string>
+    <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"Casten stoppen"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Systeem"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Apparaten"</string>
     <string msgid="5324772199357788720" name="no_browser_text">"Geen browser om website te openen"</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Zoekopdracht wissen"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Zoeken"</string>
     <string msgid="2306297166333705530" name="place_your_phone_into_cardboard">"Plaats je telefoon in je Cardboard-bril"</string>
     <string msgid="5433369525545709510" name="place_your_viewer_into_viewer_format">"Plaats je telefoon in je <ns1:g id="VIEWER_NAME">%s</ns1:g>-bril"</string>
     <string msgid="3719682527828378500" name="settings_button_content_description">"instellingen"</string>

@@ -149,6 +149,8 @@ public class WelcomeFragment extends Fragment{
     private VrPanoramaView panoWidgetView;
     private ImageLoaderTask backgroundImageLoaderTask;
 
+    private GoogleAccountCredential mCredential;
+
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
@@ -190,36 +192,32 @@ public class WelcomeFragment extends Fragment{
 
         // **NEW TEST CODE STARTS HERE**
         /*String url = "https://docs.google.com/presentation/d/1akVVQlT-FNg3_XPflwpGC1JRVcnlW0Tnd4STg_XlWfk/edit";
-        String presentationID = url.substring(39, 83);
+        //String presentationID = url.substring(39, 83);
+        String presentationID = "1akVVQlT-FNg3_XPflwpGC1JRVcnlW0Tnd4STg_XlWfk";
 
         //Toast toast = Toast.makeText(getActivity(), presentationID, Toast.LENGTH_LONG);
         //toast.show();
 
         com.google.api.services.slides.v1.Slides mService = null;
         String[] SCOPES = { SlidesScopes.PRESENTATIONS_READONLY };
-        GoogleAccountCredential mCredential = GoogleAccountCredential.usingOAuth2(
+        mCredential = GoogleAccountCredential.usingOAuth2(
                 getContext(), Arrays.asList(SCOPES))
                 .setBackOff(new ExponentialBackOff());
 
+        HttpTransport transport = AndroidHttp.newCompatibleTransport();
+        JsonFactory jsonFactory = JacksonFactory.getDefaultInstance();
+        mService = new com.google.api.services.slides.v1.Slides.Builder(
+                transport, jsonFactory, mCredential)
+                .setApplicationName("Google Slides API Android Quickstart")
+                .build();
 
-
-        Presentation response = new Presentation();
         try {
-            response = mService.presentations().get(presentationID).execute();
+            Presentation response = mService.presentations().get(presentationID).execute();
+            List<Page> slides = response.getSlides();
         }
         catch (IOException e) {
-            Toast toast = Toast.makeText(getActivity(), "IOEXCEPTION", Toast.LENGTH_LONG);
-            toast.show();
-            Log.d("ERROR", "IOException");
             System.exit(0);
-        }
-        List<Page> slides = response.getSlides();*/
-
-        /*File copyMetadata = new File().setName("Slideshow");
-        File presentationCopyFile =
-                driveService.files().copy(presentationID, copyMetadata).execute();
-        String presentationCopyId = presentationCopyFile.getId();*/
-
+        }*/
 
 
 

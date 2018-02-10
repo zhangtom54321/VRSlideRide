@@ -348,6 +348,25 @@
                         "endOffset": 11655
                     }
                 }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 11660,
+                    "endColumn": 117,
+                    "endOffset": 11773
+                },
+                "from": {
+                    "file": "/Users/test1/.android/build-cache/60c157bc14f5d257f7e189634889f4bd1170e70b/output/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endColumn": 117,
+                        "endOffset": 333
+                    }
+                }
             }
         ]
     }

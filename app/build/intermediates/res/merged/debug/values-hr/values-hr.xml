@@ -66,7 +66,20 @@
     <string msgid="7122144659930752678" name="dialog_vr_core_not_installed">"Ta aplikacija možda neće ispravno funkcionirati bez Googleovih VR usluga. Prije nego što nastavite instalirajte Googleove VR usluge iz Trgovine Play."</string>
     <string msgid="6145412853379876634" name="go_to_playstore_button">"Idi na Trgovinu Play"</string>
     <string msgid="6878752668266068283" name="go_to_vr_listeners_settings_button">"Idi na postavke"</string>
+    <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"Emitiranje"</string>
+    <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"Traženje uređaja…"</string>
+    <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"Povezivanje s uređajem"</string>
+    <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"Prekini vezu"</string>
+    <string msgid="3641544772007543920" name="mr_media_route_controller_no_info_available">"Informacije nisu dostupne"</string>
+    <string msgid="8315773974194466049" name="mr_media_route_controller_pause">"Pauziraj"</string>
+    <string msgid="5214423499524760404" name="mr_media_route_controller_play">"Reprodukcija"</string>
+    <string msgid="379358765881274425" name="mr_media_route_controller_settings_description">"Postavke rute"</string>
+    <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"Zaustavi emitiranje"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Sustav"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Uređaji"</string>
     <string msgid="5324772199357788720" name="no_browser_text">"Nema preglednika za otvaranje web-lokacije"</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Brisanje pretraživanja"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Pretražite"</string>
     <string msgid="2306297166333705530" name="place_your_phone_into_cardboard">"Stavite telefon u masku za Cardboard"</string>
     <string msgid="5433369525545709510" name="place_your_viewer_into_viewer_format">"Stavite svoj telefon u masku <ns1:g id="VIEWER_NAME">%s</ns1:g>"</string>
     <string msgid="3719682527828378500" name="settings_button_content_description">"postavke"</string>

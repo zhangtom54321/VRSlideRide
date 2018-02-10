@@ -66,7 +66,20 @@
     <string msgid="7122144659930752678" name="dialog_vr_core_not_installed">"Diese App funktioniert möglicherweise nicht ordnungsgemäß, wenn Google VR Services nicht installiert ist. Installiere vor dem Fortfahren Google VR Services aus dem Play Store."</string>
     <string msgid="6145412853379876634" name="go_to_playstore_button">"Zum Play Store"</string>
     <string msgid="6878752668266068283" name="go_to_vr_listeners_settings_button">"Zu den Einstellungen"</string>
+    <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"Übertragen"</string>
+    <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"Geräte werden gesucht…"</string>
+    <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"Mit Gerät verbinden"</string>
+    <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"Verbindung aufheben"</string>
+    <string msgid="3641544772007543920" name="mr_media_route_controller_no_info_available">"Keine Informationen verfügbar"</string>
+    <string msgid="8315773974194466049" name="mr_media_route_controller_pause">"Pause"</string>
+    <string msgid="5214423499524760404" name="mr_media_route_controller_play">"Wiedergabe"</string>
+    <string msgid="379358765881274425" name="mr_media_route_controller_settings_description">"Routingeinstellungen"</string>
+    <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"Übertragung stoppen"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"System"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Geräte"</string>
     <string msgid="5324772199357788720" name="no_browser_text">"Kein Browser zum Öffnen der Website gefunden"</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Suche zurücksetzen"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Suche"</string>
     <string msgid="2306297166333705530" name="place_your_phone_into_cardboard">"Leg dein Smartphone in das Cardboard-Gerät ein"</string>
     <string msgid="5433369525545709510" name="place_your_viewer_into_viewer_format">"Leg das Smartphone in das <ns1:g id="VIEWER_NAME">%s</ns1:g>-Gerät ein."</string>
     <string msgid="3719682527828378500" name="settings_button_content_description">"Einstellungen"</string>

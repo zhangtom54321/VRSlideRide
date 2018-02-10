@@ -48,6 +48,8 @@
     <string msgid="6145412853379876634" name="go_to_playstore_button">"Play സ്‌റ്റോറിലേക്ക് പോകുക"</string>
     <string msgid="6878752668266068283" name="go_to_vr_listeners_settings_button">"ക്രമീകരണത്തിലേക്ക് പോകുക"</string>
     <string msgid="5324772199357788720" name="no_browser_text">"വെബ്‌സൈറ്റ് തുറക്കുന്നതിന് ബ്രൗസറൊന്നുമില്ല"</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"തിരയുന്നത് മായ്‌ക്കുക"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"തിരയുക"</string>
     <string msgid="2306297166333705530" name="place_your_phone_into_cardboard">"നിങ്ങളുടെ കാർഡ്ബോർഡ് വ്യൂവറിലേക്ക് നിങ്ങളുടെ ഫോൺ വയ്ക്കുക"</string>
     <string msgid="5433369525545709510" name="place_your_viewer_into_viewer_format">"നിങ്ങളുടെ <ns1:g id="VIEWER_NAME">%s</ns1:g> വ്യൂവറിലേക്ക് നിങ്ങളുടെ ഫോൺ വയ്ക്കുക"</string>
     <string msgid="3719682527828378500" name="settings_button_content_description">"ക്രമീകരണം"</string>

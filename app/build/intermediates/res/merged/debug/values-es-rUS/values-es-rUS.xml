@@ -66,7 +66,20 @@
     <string msgid="7122144659930752678" name="dialog_vr_core_not_installed">"Es posible que esta aplicación no funcione correctamente sin los Servicios de RV de Google. Instálalos desde Play Store antes de continuar."</string>
     <string msgid="6145412853379876634" name="go_to_playstore_button">"Ir a Play Store"</string>
     <string msgid="6878752668266068283" name="go_to_vr_listeners_settings_button">"Ir a Configuración"</string>
+    <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"Transmitir"</string>
+    <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"Buscando dispositivos…"</string>
+    <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"Conectar al dispositivo"</string>
+    <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"Desconectar"</string>
+    <string msgid="3641544772007543920" name="mr_media_route_controller_no_info_available">"No hay información disponible"</string>
+    <string msgid="8315773974194466049" name="mr_media_route_controller_pause">"Pausar"</string>
+    <string msgid="5214423499524760404" name="mr_media_route_controller_play">"Reproducir"</string>
+    <string msgid="379358765881274425" name="mr_media_route_controller_settings_description">"Configuración de ruta"</string>
+    <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"Detener transmisión"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Sistema"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Dispositivos"</string>
     <string msgid="5324772199357788720" name="no_browser_text">"No hay ningún navegador para abrir el sitio web"</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Borrar búsqueda"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Búsqueda"</string>
     <string msgid="2306297166333705530" name="place_your_phone_into_cardboard">"Coloca el teléfono en el visor Cardboard"</string>
     <string msgid="5433369525545709510" name="place_your_viewer_into_viewer_format">"Coloca el teléfono en el visor <ns1:g id="VIEWER_NAME">%s</ns1:g>"</string>
     <string msgid="3719682527828378500" name="settings_button_content_description">"configuración"</string>

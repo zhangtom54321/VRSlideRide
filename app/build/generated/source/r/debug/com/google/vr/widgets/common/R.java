@@ -8,26 +8,26 @@ package com.google.vr.widgets.common;
 
 public final class R {
     public static final class dimen {
-        public static final int button_padding = 0x7f080050;
+        public static final int button_padding = 0x7f090051;
     }
     public static final class drawable {
-        public static final int quantum_ic_cardboard_white_24 = 0x7f02007a;
-        public static final int quantum_ic_close_white_24 = 0x7f02007b;
-        public static final int quantum_ic_fullscreen_white_24 = 0x7f02007c;
-        public static final int quantum_ic_info_white_24 = 0x7f02007d;
+        public static final int quantum_ic_cardboard_white_24 = 0x7f0200a9;
+        public static final int quantum_ic_close_white_24 = 0x7f0200aa;
+        public static final int quantum_ic_fullscreen_white_24 = 0x7f0200ab;
+        public static final int quantum_ic_info_white_24 = 0x7f0200ac;
     }
     public static final class id {
-        public static final int control_layout = 0x7f0c00a3;
-        public static final int fullscreen_back_button = 0x7f0c00a1;
-        public static final int fullscreen_button = 0x7f0c00a5;
-        public static final int info_button = 0x7f0c00a2;
-        public static final int vr_mode_button = 0x7f0c00a4;
-        public static final int vrwidget_inner_view = 0x7f0c000b;
+        public static final int control_layout = 0x7f0d00ef;
+        public static final int fullscreen_back_button = 0x7f0d00ed;
+        public static final int fullscreen_button = 0x7f0d00f1;
+        public static final int info_button = 0x7f0d00ee;
+        public static final int vr_mode_button = 0x7f0d00f0;
+        public static final int vrwidget_inner_view = 0x7f0d000d;
     }
     public static final class layout {
-        public static final int ui_view_embed = 0x7f040038;
+        public static final int ui_view_embed = 0x7f04003f;
     }
     public static final class style {
-        public static final int ControlButton = 0x7f0900be;
+        public static final int ControlButton = 0x7f0a00bf;
     }
 }
