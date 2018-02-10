@@ -1,6 +1,46 @@
 [
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/color-v23/abc_color_highlight_material.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\color-v23\\abc_tint_edittext.xml"
     }
 ]

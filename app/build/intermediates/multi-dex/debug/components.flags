@@ -1,0 +1,81 @@
+-injars 'C:\Users\S\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\efbd11800114cd7eb15079bfa0c028c1\jars\classes.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\transforms-1\files-1.1\easypermissions-0.3.0.aar\a8a9b2d0e72cc3b872b427563624ce22\jars\classes.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\cdc15c736c06e6b992d6f90770e77b6f\jars\classes.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-audio-1.10.0.aar\35fe3c2a8fcf1c2a234c8d516159e350\jars\classes.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-base-1.10.0.aar\92b5665e2a102445e326e8cbe87f3d4e\jars\classes.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-panowidget-1.10.0.aar\f86609c3319cdef874451765f5b397b1\jars\classes.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-videowidget-1.10.0.aar\70797844c84b9fd13c5fe8bd95dde271\jars\classes.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-commonwidget-1.10.0.aar\5449c40cb4b57409eed2c80640045784\jars\classes.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-common-1.10.0.aar\8c4536a4b9fc5185a1a4e94ffeecb91f\jars\classes.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\196629828547c134ed93b463a6493f45\jars\classes.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.23.0\b95521559faf49989ff036a5b15fd16476bdc955\google-api-client-android-1.23.0.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\modules-2\files-2.1\com.google.apis\google-api-services-slides\v1-rev283-1.23.0\99c690dc73b024980754454f16af278d9f73bec3\google-api-services-slides-v1-rev283-1.23.0.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\b7d1039888e842b40642878989f71999\jars\classes.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\f6d3aa3e9ab954bf132a2ed9bc80c826\jars\classes.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\9224d39fd55424639682cfe7a0d20219\jars\classes.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\2183b521f18ef790fda012a2b7de50a4\jars\classes.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\db262598a5bee2421f48e014e4a24539\jars\classes.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\383fdfea70215a73ddbbe725a1ed537c\jars\classes.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\469f55a636f46ad9846226d80f5ab3f3\jars\classes.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\21a1ed5173690c74b2197471fff71f18\jars\classes.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\c48c90bf156a309ff3a407f5f3bad76c\jars\classes.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\c3db939cc44ff84cd0edf44a4d96d46f\jars\classes.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\297b6e81b4285354be463ddedd06fdca\jars\classes.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.4.0\f6a2fc748ae3769633dea050563e1613e93c135e\support-annotations-25.4.0.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\modules-2\files-2.1\com.google.protobuf.nano\protobuf-javanano\3.1.0\5110f05deac8f15244897b3f70e9ce413468771d\protobuf-javanano-3.1.0.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\transforms-1\files-1.1\exoplayer-r1.5.10.aar\4d29310e7201f6bc241126fc04b0eba9\jars\classes.jar'(**.class)
+-injars 'C:\JrJavaAndroidStudio2.1\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.23.0\522ea860eb48dee71dfe2c61a1fd09663539f556\google-api-client-1.23.0.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.23.0\1bbe77a8594d7892571266392b8a7dd0a5980664\google-http-client-android-1.23.0.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.23.0\e57ea1e2220bda5a2bd24ff17860212861f3c5cf\google-oauth-client-1.23.0.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.23.0\fd6761f4046a8cb0455e6fa5f58e12b061e9826e\google-http-client-jackson2-1.23.0.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\17.0\463f8378feba44df7ba7cd9272d01837dad62b36\guava-jdk5-17.0.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.23.0\8e86c84ff3c98eca6423e97780325b299133d858\google-http-client-1.23.0.jar'(**.class)
+-injars 'C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient\4.0.1\1d7d28fa738bdbfe4fbd895d9486308999bdf440\httpclient-4.0.1.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.0.1\e813b8722c387b22e1adccf7914729db09bcb4a9\httpcore-4.0.1.jar'(**.class)
+-injars 'C:\Program Files\Android\Android Studio\gradle\m2repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar'(**.class)
+-injars 'C:\Users\S\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.3\fd32786786e2adb664d5ecc965da47629dca14ba\commons-codec-1.3.jar'(**.class)
+-injars 'C:\Users\S\VRSlideRide\app\build\intermediates\classes\debug'(**.class)
+-outjars 'C:\Users\S\VRSlideRide\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\JrJavaAndroidStudio2.1\sdk\build-tools\26.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'C:\Users\S\VRSlideRide\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+# Referenced at C:\Users\S\VRSlideRide\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:25
+-keep class android.support.multidex.MultiDexApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

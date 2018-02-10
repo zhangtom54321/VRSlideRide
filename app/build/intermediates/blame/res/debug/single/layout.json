@@ -1,234 +1,474 @@
 [
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/welcome_fragment.xml",
-        "source": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/res/layout/welcome_fragment.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_action_bar_title_item.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_layer_with_portrait_support.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-base-1.10.0.aar\\92b5665e2a102445e326e8cbe87f3d4e\\res\\layout\\ui_layer_with_portrait_support.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_select_dialog_material.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_action_bar_up_container.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
-        "source": "/Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/res/layout/design_navigation_item_separator.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\transition_view.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-base-1.10.0.aar\\92b5665e2a102445e326e8cbe87f3d4e\\res\\layout\\transition_view.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_popup_menu_item_layout.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/transition_view.xml",
-        "source": "/Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/res/layout/transition_view.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/notification_template_big_media.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/select_dialog_multichoice_material.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/notification_media_cancel_action.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_screen_content_include.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_activity_chooser_view.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vr.xml",
+        "source": "C:\\Users\\S\\VRSlideRide\\app\\src\\main\\res\\layout\\activity_vr.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_screen_toolbar.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_expanded_menu_layout.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\831c81fe5c84db89f79ea5dbc9394a66ac8ad23a\\output\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.3.0.aar\\7b380b0d918803b85f4a59092198d8dd\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/notification_template_media.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/select_dialog_singlechoice_material.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_list_menu_item_checkbox.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/notification_template_lines.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
-        "source": "/Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/res/layout/design_layout_snackbar_include.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\831c81fe5c84db89f79ea5dbc9394a66ac8ad23a\\output\\res\\layout\\design_navigation_menu.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
-        "source": "/Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/res/layout/design_menu_item_action_area.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/select_dialog_item_material.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_search_view.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_alert_dialog_material.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\back_button.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-base-1.10.0.aar\\92b5665e2a102445e326e8cbe87f3d4e\\res\\layout\\back_button.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/ui_layer.xml",
-        "source": "/Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/res/layout/ui_layer.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_action_menu_layout.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
-        "source": "/Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/res/layout/design_layout_tab_icon.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\S\\VRSlideRide\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/ui_layer_with_portrait_support.xml",
-        "source": "/Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/res/layout/ui_layer_with_portrait_support.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/activity_vr.xml",
-        "source": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/res/layout/activity_vr.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
-        "source": "/Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/res/layout/design_navigation_item.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.3.0.aar\\7b380b0d918803b85f4a59092198d8dd\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_action_mode_bar.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\831c81fe5c84db89f79ea5dbc9394a66ac8ad23a\\output\\res\\layout\\design_navigation_item_header.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_list_menu_item_radio.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.3.0.aar\\7b380b0d918803b85f4a59092198d8dd\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
-        "source": "/Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/res/layout/design_bottom_sheet_dialog.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_button.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\43afc987e5993fe0fffc9a4585a4fda1ef6b6635\\output\\res\\layout\\settings_button.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/notification_template_big_media_narrow.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.3.0.aar\\7b380b0d918803b85f4a59092198d8dd\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_action_menu_item_layout.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.3.0.aar\\7b380b0d918803b85f4a59092198d8dd\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_action_mode_close_item_material.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
-        "source": "/Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/res/layout/design_navigation_item_header.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/res/layout/activity_main.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_view_embed.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-commonwidget-1.10.0.aar\\5449c40cb4b57409eed2c80640045784\\res\\layout\\ui_view_embed.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/back_button.xml",
-        "source": "/Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/res/layout/back_button.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/support_simple_spinner_dropdown_item.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
-        "source": "/Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/res/layout/design_navigation_menu.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_screen_simple.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/notification_template_part_chronometer.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.3.0.aar\\7b380b0d918803b85f4a59092198d8dd\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
-        "source": "/Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/res/layout/design_navigation_item_subheader.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\831c81fe5c84db89f79ea5dbc9394a66ac8ad23a\\output\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
-        "source": "/Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/res/layout/design_layout_tab_text.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/notification_template_part_time.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/ui_view_embed.xml",
-        "source": "/Users/test1/.android/build-cache/90842823c72c9d1eb79b994279a362464f4370c4/output/res/layout/ui_view_embed.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_dialog_title_material.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.3.0.aar\\7b380b0d918803b85f4a59092198d8dd\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/notification_media_action.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\831c81fe5c84db89f79ea5dbc9394a66ac8ad23a\\output\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/settings_button.xml",
-        "source": "/Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/res/layout/settings_button.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
-        "source": "/Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/res/layout/design_layout_snackbar.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
-        "source": "/Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/res/layout/design_navigation_menu_item.xml"
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\back_button.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\43afc987e5993fe0fffc9a4585a4fda1ef6b6635\\output\\res\\layout\\back_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_layer.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-base-1.10.0.aar\\92b5665e2a102445e326e8cbe87f3d4e\\res\\layout\\ui_layer.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.3.0.aar\\7b380b0d918803b85f4a59092198d8dd\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\831c81fe5c84db89f79ea5dbc9394a66ac8ad23a\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\transition_view.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\43afc987e5993fe0fffc9a4585a4fda1ef6b6635\\output\\res\\layout\\transition_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_layer.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\43afc987e5993fe0fffc9a4585a4fda1ef6b6635\\output\\res\\layout\\ui_layer.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.3.0.aar\\7b380b0d918803b85f4a59092198d8dd\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\831c81fe5c84db89f79ea5dbc9394a66ac8ad23a\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_view_embed.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\90842823c72c9d1eb79b994279a362464f4370c4\\output\\res\\layout\\ui_view_embed.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_fragment.xml",
+        "source": "C:\\Users\\S\\VRSlideRide\\app\\src\\main\\res\\layout\\welcome_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.3.0.aar\\7b380b0d918803b85f4a59092198d8dd\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\831c81fe5c84db89f79ea5dbc9394a66ac8ad23a\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vr.xml",
+        "source": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\src\\main\\res\\layout\\activity_vr.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\831c81fe5c84db89f79ea5dbc9394a66ac8ad23a\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_button.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-base-1.10.0.aar\\92b5665e2a102445e326e8cbe87f3d4e\\res\\layout\\settings_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\831c81fe5c84db89f79ea5dbc9394a66ac8ad23a\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\831c81fe5c84db89f79ea5dbc9394a66ac8ad23a\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_fragment.xml",
+        "source": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\src\\main\\res\\layout\\welcome_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_layer_with_portrait_support.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\43afc987e5993fe0fffc9a4585a4fda1ef6b6635\\output\\res\\layout\\ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.3.0.aar\\7b380b0d918803b85f4a59092198d8dd\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.3.0.aar\\7b380b0d918803b85f4a59092198d8dd\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\831c81fe5c84db89f79ea5dbc9394a66ac8ad23a\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     }
 ]

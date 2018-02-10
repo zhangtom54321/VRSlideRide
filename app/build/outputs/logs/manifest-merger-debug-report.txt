@@ -1,270 +1,232 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:2:1-39:12
+ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:design:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\efbd11800114cd7eb15079bfa0c028c1\AndroidManifest.xml:17:1-31:12
+MERGED from [pub.devrel:easypermissions:0.3.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\easypermissions-0.3.0.aar\a8a9b2d0e72cc3b872b427563624ce22\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\cdc15c736c06e6b992d6f90770e77b6f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.vr:sdk-audio:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-audio-1.10.0.aar\35fe3c2a8fcf1c2a234c8d516159e350\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.vr:sdk-base:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-base-1.10.0.aar\92b5665e2a102445e326e8cbe87f3d4e\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.vr:sdk-panowidget:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-panowidget-1.10.0.aar\f86609c3319cdef874451765f5b397b1\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.vr:sdk-videowidget:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-videowidget-1.10.0.aar\70797844c84b9fd13c5fe8bd95dde271\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.vr:sdk-commonwidget:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-commonwidget-1.10.0.aar\5449c40cb4b57409eed2c80640045784\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.vr:sdk-common:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-common-1.10.0.aar\8c4536a4b9fc5185a1a4e94ffeecb91f\AndroidManifest.xml:2:1-4:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\S\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\196629828547c134ed93b463a6493f45\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\S\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\b7d1039888e842b40642878989f71999\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\f6d3aa3e9ab954bf132a2ed9bc80c826\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\9224d39fd55424639682cfe7a0d20219\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\2183b521f18ef790fda012a2b7de50a4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\db262598a5bee2421f48e014e4a24539\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\383fdfea70215a73ddbbe725a1ed537c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\469f55a636f46ad9846226d80f5ab3f3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\21a1ed5173690c74b2197471fff71f18\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\c48c90bf156a309ff3a407f5f3bad76c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\c3db939cc44ff84cd0edf44a4d96d46f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\297b6e81b4285354be463ddedd06fdca\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.10] C:\Users\S\.gradle\caches\transforms-1\files-1.1\exoplayer-r1.5.10.aar\4d29310e7201f6bc241126fc04b0eba9\AndroidManifest.xml:17:1-28:12
+INJECTED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:3:5-42
-		INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml
-	xmlns:android
-		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:2:11-69
+		INJECTED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:5:5-22:19
-MERGED from [com.google.firebase:firebase-core:9.0.0] /Users/test1/.android/build-cache/6c0941ed4f948762f84b161a8459976652c613e8/output/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/test1/.android/build-cache/82bd72255f0dceb6a3ddd02db2b81f6c1be0d8de/output/AndroidManifest.xml:26:5-41:19
-MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/test1/.android/build-cache/3f37bcc613ea390d040c32eb43dc8b507c2c498a/output/AndroidManifest.xml:26:5-41:19
-MERGED from [com.google.android.gms:play-services-base:9.0.0] /Users/test1/.android/build-cache/d9a7b3b690499b94f25ea6ab2a53c354bd082918/output/AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:30:5-59:19
-MERGED from [com.google.firebase:firebase-common:9.0.0] /Users/test1/.android/build-cache/df422346f51892ec58a59d08515de6fa6f6a7373/output/AndroidManifest.xml:5:5-12:19
-MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /Users/test1/.android/build-cache/bbee13cbf98b53f052a33ada79c9169db1a92f7d/output/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement:9.0.0] /Users/test1/.android/build-cache/c20683d7a31bcb62133c9aec37eba982337493a7/output/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:design:23.3.0] /Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/test1/.android/build-cache/4d4bfe740075f5c4c7480a3120722431914e4068/output/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/test1/.android/build-cache/c1ad4967c4a64db59d31669a1c7eca871f3eecf3/output/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.3.0] /Users/test1/.android/build-cache/32952fcb4f9ca2527a1eab779b2701c03a18012a/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/test1/.android/build-cache/df894c53d394c431c70122e6bbe5cc120854b540/output/AndroidManifest.xml:9:5-20
-	android:label
-		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:8:9-41
+ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support:design:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\efbd11800114cd7eb15079bfa0c028c1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\efbd11800114cd7eb15079bfa0c028c1\AndroidManifest.xml:25:5-29:19
+MERGED from [pub.devrel:easypermissions:0.3.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\easypermissions-0.3.0.aar\a8a9b2d0e72cc3b872b427563624ce22\AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:0.3.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\easypermissions-0.3.0.aar\a8a9b2d0e72cc3b872b427563624ce22\AndroidManifest.xml:11:5-17:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\cdc15c736c06e6b992d6f90770e77b6f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\cdc15c736c06e6b992d6f90770e77b6f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\S\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\196629828547c134ed93b463a6493f45\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\S\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\196629828547c134ed93b463a6493f45\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\f6d3aa3e9ab954bf132a2ed9bc80c826\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\f6d3aa3e9ab954bf132a2ed9bc80c826\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\9224d39fd55424639682cfe7a0d20219\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\9224d39fd55424639682cfe7a0d20219\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\2183b521f18ef790fda012a2b7de50a4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\2183b521f18ef790fda012a2b7de50a4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\db262598a5bee2421f48e014e4a24539\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\db262598a5bee2421f48e014e4a24539\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\383fdfea70215a73ddbbe725a1ed537c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\383fdfea70215a73ddbbe725a1ed537c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\469f55a636f46ad9846226d80f5ab3f3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\469f55a636f46ad9846226d80f5ab3f3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\21a1ed5173690c74b2197471fff71f18\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\21a1ed5173690c74b2197471fff71f18\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\c48c90bf156a309ff3a407f5f3bad76c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\c48c90bf156a309ff3a407f5f3bad76c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\c3db939cc44ff84cd0edf44a4d96d46f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\c3db939cc44ff84cd0edf44a4d96d46f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\297b6e81b4285354be463ddedd06fdca\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\297b6e81b4285354be463ddedd06fdca\AndroidManifest.xml:25:5-29:19
 	android:supportsRtl
-		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:9:9-35
-	android:allowBackup
-		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:6:9-35
-	android:icon
-		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:7:9-43
-	android:theme
-		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:10:9-40
-activity#com.google.devrel.vrviewapp.MainActivity
-ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:11:9-20:20
+		ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:13:13-45
+		ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:14:13-56
+		ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.google.devrel.vrviewapp.MainActivity
+ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:11:9-20:20
+	android:label
+		ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:13:13-45
+	android:theme
+		ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:14:13-56
 	android:name
-		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:12:13-41
+		ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:12:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:18:27-74
 activity#com.google.devrel.vrviewapp.VRActivity
-ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:21:9-57
+ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:21:9-57
 	android:name
-		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:21:19-45
-activity#com.dropbox.client2.android.AuthActivity
-ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:24:5-36:16
-	android:launchMode
-		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:26:9-40
-	android:configChanges
-		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:28:9-53
-	android:theme
-		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:27:9-68
-	android:name
-		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:25:9-64
-intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:29:9-35:25
-data
-ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:31:13-57
-	android:scheme
-		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:31:19-54
-action#android.intent.action.VIEW
-ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:32:13-65
-	android:name
-		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:32:21-62
-category#android.intent.category.BROWSABLE
-ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:33:13-73
-	android:name
-		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:33:23-71
-category#android.intent.category.DEFAULT
-ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:34:13-72
-	android:name
-		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:34:23-69
+		ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:21:19-45
 uses-sdk
-INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.google.firebase:firebase-core:9.0.0] /Users/test1/.android/build-cache/6c0941ed4f948762f84b161a8459976652c613e8/output/AndroidManifest.xml:4:5-42
-MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/test1/.android/build-cache/82bd72255f0dceb6a3ddd02db2b81f6c1be0d8de/output/AndroidManifest.xml:18:5-42
-MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/test1/.android/build-cache/3f37bcc613ea390d040c32eb43dc8b507c2c498a/output/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:9.0.0] /Users/test1/.android/build-cache/d9a7b3b690499b94f25ea6ab2a53c354bd082918/output/AndroidManifest.xml:18:5-42
-MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:18:5-42
-MERGED from [com.google.firebase:firebase-common:9.0.0] /Users/test1/.android/build-cache/df422346f51892ec58a59d08515de6fa6f6a7373/output/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /Users/test1/.android/build-cache/bbee13cbf98b53f052a33ada79c9169db1a92f7d/output/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement:9.0.0] /Users/test1/.android/build-cache/c20683d7a31bcb62133c9aec37eba982337493a7/output/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:design:23.3.0] /Users/test1/.android/build-cache/831c81fe5c84db89f79ea5dbc9394a66ac8ad23a/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/test1/.android/build-cache/4d4bfe740075f5c4c7480a3120722431914e4068/output/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/test1/.android/build-cache/c1ad4967c4a64db59d31669a1c7eca871f3eecf3/output/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:recyclerview-v7:23.3.0] /Users/test1/.android/build-cache/54086ba3d83a474e8442557a50d387854fc24c30/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.3.0] /Users/test1/.android/build-cache/32952fcb4f9ca2527a1eab779b2701c03a18012a/output/AndroidManifest.xml:20:5-43
-MERGED from [com.google.vr:sdk-audio:1.10.0] /Users/test1/.android/build-cache/c406f7bf0e3739f63cd14672cf1524c2fcf6ff00/output/AndroidManifest.xml:3:5-73
-MERGED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:5:5-73
-MERGED from [com.google.vr:sdk-panowidget:1.10.0] /Users/test1/.android/build-cache/94b0d90bae4b565f1ca92c1ab721b6417816ca96/output/AndroidManifest.xml:3:5-73
-MERGED from [com.google.vr:sdk-videowidget:1.10.0] /Users/test1/.android/build-cache/efb9c2e8b873d158067469b558c8b802f0d1495a/output/AndroidManifest.xml:3:5-73
-MERGED from [com.google.android.exoplayer:exoplayer:r1.5.10] /Users/test1/.android/build-cache/782558586c7f307e7148020c93b2583b17a4ced0/output/AndroidManifest.xml:24:5-26:41
-MERGED from [com.google.vr:sdk-commonwidget:1.10.0] /Users/test1/.android/build-cache/90842823c72c9d1eb79b994279a362464f4370c4/output/AndroidManifest.xml:3:5-73
-MERGED from [com.google.vr:sdk-common:1.10.0] /Users/test1/.android/build-cache/60413876a4f0c82d0503eb68db7b879c2c205470/output/AndroidManifest.xml:3:5-73
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/test1/.android/build-cache/df894c53d394c431c70122e6bbe5cc120854b540/output/AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\efbd11800114cd7eb15079bfa0c028c1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\efbd11800114cd7eb15079bfa0c028c1\AndroidManifest.xml:21:5-23:62
+MERGED from [pub.devrel:easypermissions:0.3.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\easypermissions-0.3.0.aar\a8a9b2d0e72cc3b872b427563624ce22\AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:0.3.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\easypermissions-0.3.0.aar\a8a9b2d0e72cc3b872b427563624ce22\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\cdc15c736c06e6b992d6f90770e77b6f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\cdc15c736c06e6b992d6f90770e77b6f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.vr:sdk-audio:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-audio-1.10.0.aar\35fe3c2a8fcf1c2a234c8d516159e350\AndroidManifest.xml:3:5-73
+MERGED from [com.google.vr:sdk-audio:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-audio-1.10.0.aar\35fe3c2a8fcf1c2a234c8d516159e350\AndroidManifest.xml:3:5-73
+MERGED from [com.google.vr:sdk-base:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-base-1.10.0.aar\92b5665e2a102445e326e8cbe87f3d4e\AndroidManifest.xml:5:5-73
+MERGED from [com.google.vr:sdk-base:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-base-1.10.0.aar\92b5665e2a102445e326e8cbe87f3d4e\AndroidManifest.xml:5:5-73
+MERGED from [com.google.vr:sdk-panowidget:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-panowidget-1.10.0.aar\f86609c3319cdef874451765f5b397b1\AndroidManifest.xml:3:5-73
+MERGED from [com.google.vr:sdk-panowidget:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-panowidget-1.10.0.aar\f86609c3319cdef874451765f5b397b1\AndroidManifest.xml:3:5-73
+MERGED from [com.google.vr:sdk-videowidget:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-videowidget-1.10.0.aar\70797844c84b9fd13c5fe8bd95dde271\AndroidManifest.xml:3:5-73
+MERGED from [com.google.vr:sdk-videowidget:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-videowidget-1.10.0.aar\70797844c84b9fd13c5fe8bd95dde271\AndroidManifest.xml:3:5-73
+MERGED from [com.google.vr:sdk-commonwidget:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-commonwidget-1.10.0.aar\5449c40cb4b57409eed2c80640045784\AndroidManifest.xml:3:5-73
+MERGED from [com.google.vr:sdk-commonwidget:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-commonwidget-1.10.0.aar\5449c40cb4b57409eed2c80640045784\AndroidManifest.xml:3:5-73
+MERGED from [com.google.vr:sdk-common:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-common-1.10.0.aar\8c4536a4b9fc5185a1a4e94ffeecb91f\AndroidManifest.xml:3:5-73
+MERGED from [com.google.vr:sdk-common:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-common-1.10.0.aar\8c4536a4b9fc5185a1a4e94ffeecb91f\AndroidManifest.xml:3:5-73
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\S\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\196629828547c134ed93b463a6493f45\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\S\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\196629828547c134ed93b463a6493f45\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\S\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\b7d1039888e842b40642878989f71999\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\S\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\b7d1039888e842b40642878989f71999\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\f6d3aa3e9ab954bf132a2ed9bc80c826\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\f6d3aa3e9ab954bf132a2ed9bc80c826\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\9224d39fd55424639682cfe7a0d20219\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\9224d39fd55424639682cfe7a0d20219\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\2183b521f18ef790fda012a2b7de50a4\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\2183b521f18ef790fda012a2b7de50a4\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\db262598a5bee2421f48e014e4a24539\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\db262598a5bee2421f48e014e4a24539\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\383fdfea70215a73ddbbe725a1ed537c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\383fdfea70215a73ddbbe725a1ed537c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\469f55a636f46ad9846226d80f5ab3f3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\469f55a636f46ad9846226d80f5ab3f3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\21a1ed5173690c74b2197471fff71f18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\21a1ed5173690c74b2197471fff71f18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\c48c90bf156a309ff3a407f5f3bad76c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\c48c90bf156a309ff3a407f5f3bad76c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\c3db939cc44ff84cd0edf44a4d96d46f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\c3db939cc44ff84cd0edf44a4d96d46f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\297b6e81b4285354be463ddedd06fdca\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\297b6e81b4285354be463ddedd06fdca\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.10] C:\Users\S\.gradle\caches\transforms-1\files-1.1\exoplayer-r1.5.10.aar\4d29310e7201f6bc241126fc04b0eba9\AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.10] C:\Users\S\.gradle\caches\transforms-1\files-1.1\exoplayer-r1.5.10.aar\4d29310e7201f6bc241126fc04b0eba9\AndroidManifest.xml:24:5-26:41
+INJECTED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.3.0] /Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:design:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\efbd11800114cd7eb15079bfa0c028c1\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml
-uses-permission#android.permission.INTERNET
-ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/test1/.android/build-cache/82bd72255f0dceb6a3ddd02db2b81f6c1be0d8de/output/AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/test1/.android/build-cache/3f37bcc613ea390d040c32eb43dc8b507c2c498a/output/AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:21:5-67
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/test1/.android/build-cache/82bd72255f0dceb6a3ddd02db2b81f6c1be0d8de/output/AndroidManifest.xml:21:22-64
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/test1/.android/build-cache/82bd72255f0dceb6a3ddd02db2b81f6c1be0d8de/output/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/test1/.android/build-cache/3f37bcc613ea390d040c32eb43dc8b507c2c498a/output/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:20:5-79
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/test1/.android/build-cache/82bd72255f0dceb6a3ddd02db2b81f6c1be0d8de/output/AndroidManifest.xml:22:22-76
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/test1/.android/build-cache/82bd72255f0dceb6a3ddd02db2b81f6c1be0d8de/output/AndroidManifest.xml:24:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/test1/.android/build-cache/3f37bcc613ea390d040c32eb43dc8b507c2c498a/output/AndroidManifest.xml:24:5-67
-MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:22:5-68
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/test1/.android/build-cache/82bd72255f0dceb6a3ddd02db2b81f6c1be0d8de/output/AndroidManifest.xml:24:22-65
-receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/test1/.android/build-cache/82bd72255f0dceb6a3ddd02db2b81f6c1be0d8de/output/AndroidManifest.xml:28:7-34:18
-MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/test1/.android/build-cache/3f37bcc613ea390d040c32eb43dc8b507c2c498a/output/AndroidManifest.xml:28:7-34:18
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/test1/.android/build-cache/82bd72255f0dceb6a3ddd02db2b81f6c1be0d8de/output/AndroidManifest.xml:30:11-33
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/test1/.android/build-cache/82bd72255f0dceb6a3ddd02db2b81f6c1be0d8de/output/AndroidManifest.xml:29:11-83
-intent-filter#com.google.android.gms.measurement.UPLOAD
-ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/test1/.android/build-cache/82bd72255f0dceb6a3ddd02db2b81f6c1be0d8de/output/AndroidManifest.xml:31:9-33:25
-action#com.google.android.gms.measurement.UPLOAD
-ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/test1/.android/build-cache/82bd72255f0dceb6a3ddd02db2b81f6c1be0d8de/output/AndroidManifest.xml:32:11-77
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/test1/.android/build-cache/82bd72255f0dceb6a3ddd02db2b81f6c1be0d8de/output/AndroidManifest.xml:32:19-75
-service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/test1/.android/build-cache/82bd72255f0dceb6a3ddd02db2b81f6c1be0d8de/output/AndroidManifest.xml:36:7-39:37
-MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/test1/.android/build-cache/3f37bcc613ea390d040c32eb43dc8b507c2c498a/output/AndroidManifest.xml:36:7-39:37
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/test1/.android/build-cache/82bd72255f0dceb6a3ddd02db2b81f6c1be0d8de/output/AndroidManifest.xml:38:11-33
-	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/test1/.android/build-cache/82bd72255f0dceb6a3ddd02db2b81f6c1be0d8de/output/AndroidManifest.xml:39:11-35
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/test1/.android/build-cache/82bd72255f0dceb6a3ddd02db2b81f6c1be0d8de/output/AndroidManifest.xml:37:11-82
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:9.0.0] /Users/test1/.android/build-cache/d9a7b3b690499b94f25ea6ab2a53c354bd082918/output/AndroidManifest.xml:20:9-22:45
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:9.0.0] /Users/test1/.android/build-cache/d9a7b3b690499b94f25ea6ab2a53c354bd082918/output/AndroidManifest.xml:22:19-43
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:9.0.0] /Users/test1/.android/build-cache/d9a7b3b690499b94f25ea6ab2a53c354bd082918/output/AndroidManifest.xml:21:19-78
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:9.0.0] /Users/test1/.android/build-cache/d9a7b3b690499b94f25ea6ab2a53c354bd082918/output/AndroidManifest.xml:20:19-85
-uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:23:5-82
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:23:22-79
-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:25:5-26:47
-	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:26:9-44
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:25:17-71
-uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:28:5-79
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:28:22-76
-receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:32:9-41:20
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:34:13-36
-	android:permission
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:35:13-73
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:33:13-78
-intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:36:13-40:29
-action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:37:17-81
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:37:25-78
-action#com.google.android.c2dm.intent.REGISTRATION
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:38:17-86
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:38:25-83
-category#${applicationId}
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:39:17-61
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:39:27-58
-receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:45:9-47:40
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:47:13-37
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:46:13-86
-service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:51:9-57:19
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:53:13-36
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:52:13-77
-intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:54:13-56:29
-	android:priority
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:54:28-51
-action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:55:17-80
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/test1/.android/build-cache/ed2f220e8aa0d3ca113912ef38316e8ddf04962e/output/AndroidManifest.xml:55:25-77
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:9.0.0] /Users/test1/.android/build-cache/df422346f51892ec58a59d08515de6fa6f6a7373/output/AndroidManifest.xml:7:9-11:39
-	android:authorities
-		ADDED from [com.google.firebase:firebase-common:9.0.0] /Users/test1/.android/build-cache/df422346f51892ec58a59d08515de6fa6f6a7373/output/AndroidManifest.xml:8:13-72
-	android:exported
-		ADDED from [com.google.firebase:firebase-common:9.0.0] /Users/test1/.android/build-cache/df422346f51892ec58a59d08515de6fa6f6a7373/output/AndroidManifest.xml:10:13-37
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:9.0.0] /Users/test1/.android/build-cache/df422346f51892ec58a59d08515de6fa6f6a7373/output/AndroidManifest.xml:11:13-36
-	android:name
-		ADDED from [com.google.firebase:firebase-common:9.0.0] /Users/test1/.android/build-cache/df422346f51892ec58a59d08515de6fa6f6a7373/output/AndroidManifest.xml:9:13-58
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:9.0.0] /Users/test1/.android/build-cache/c20683d7a31bcb62133c9aec37eba982337493a7/output/AndroidManifest.xml:21:9-23:69
+		INJECTED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\efbd11800114cd7eb15079bfa0c028c1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\cdc15c736c06e6b992d6f90770e77b6f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\cdc15c736c06e6b992d6f90770e77b6f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\f6d3aa3e9ab954bf132a2ed9bc80c826\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\f6d3aa3e9ab954bf132a2ed9bc80c826\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\9224d39fd55424639682cfe7a0d20219\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\9224d39fd55424639682cfe7a0d20219\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\2183b521f18ef790fda012a2b7de50a4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\2183b521f18ef790fda012a2b7de50a4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\db262598a5bee2421f48e014e4a24539\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\db262598a5bee2421f48e014e4a24539\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\383fdfea70215a73ddbbe725a1ed537c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\383fdfea70215a73ddbbe725a1ed537c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\469f55a636f46ad9846226d80f5ab3f3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\469f55a636f46ad9846226d80f5ab3f3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\21a1ed5173690c74b2197471fff71f18\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\21a1ed5173690c74b2197471fff71f18\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\c48c90bf156a309ff3a407f5f3bad76c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\c48c90bf156a309ff3a407f5f3bad76c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\c3db939cc44ff84cd0edf44a4d96d46f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\c3db939cc44ff84cd0edf44a4d96d46f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\297b6e81b4285354be463ddedd06fdca\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\297b6e81b4285354be463ddedd06fdca\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:9.0.0] /Users/test1/.android/build-cache/c20683d7a31bcb62133c9aec37eba982337493a7/output/AndroidManifest.xml:23:13-66
+		ADDED from [com.android.support:design:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\efbd11800114cd7eb15079bfa0c028c1\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:9.0.0] /Users/test1/.android/build-cache/c20683d7a31bcb62133c9aec37eba982337493a7/output/AndroidManifest.xml:22:13-58
+		ADDED from [com.android.support:design:25.4.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\efbd11800114cd7eb15079bfa0c028c1\AndroidManifest.xml:27:13-51
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:0.3.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\easypermissions-0.3.0.aar\a8a9b2d0e72cc3b872b427563624ce22\AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:0.3.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\easypermissions-0.3.0.aar\a8a9b2d0e72cc3b872b427563624ce22\AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:0.3.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\easypermissions-0.3.0.aar\a8a9b2d0e72cc3b872b427563624ce22\AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:0.3.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\easypermissions-0.3.0.aar\a8a9b2d0e72cc3b872b427563624ce22\AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:0.3.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\easypermissions-0.3.0.aar\a8a9b2d0e72cc3b872b427563624ce22\AndroidManifest.xml:13:13-86
 uses-feature#0x00020000
-ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:6:5-77
+ADDED from [com.google.vr:sdk-base:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-base-1.10.0.aar\92b5665e2a102445e326e8cbe87f3d4e\AndroidManifest.xml:6:5-77
 	android:glEsVersion
-		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:6:19-51
+		ADDED from [com.google.vr:sdk-base:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-base-1.10.0.aar\92b5665e2a102445e326e8cbe87f3d4e\AndroidManifest.xml:6:19-51
 	android:required
-		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:6:52-75
+		ADDED from [com.google.vr:sdk-base:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-base-1.10.0.aar\92b5665e2a102445e326e8cbe87f3d4e\AndroidManifest.xml:6:52-75
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:9:5-79
-IMPLIED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:2:1-39:12 reason: com.google.vr.sdk.base requested WRITE_EXTERNAL_STORAGE
+ADDED from [com.google.vr:sdk-base:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-base-1.10.0.aar\92b5665e2a102445e326e8cbe87f3d4e\AndroidManifest.xml:9:5-79
+IMPLIED from C:\Users\S\VRSlideRide\app\src\main\AndroidManifest.xml:2:1-28:12 reason: com.google.vr.sdk.base requested WRITE_EXTERNAL_STORAGE
 	android:name
-		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:9:22-77
+		ADDED from [com.google.vr:sdk-base:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-base-1.10.0.aar\92b5665e2a102445e326e8cbe87f3d4e\AndroidManifest.xml:9:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:10:5-80
+ADDED from [com.google.vr:sdk-base:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-base-1.10.0.aar\92b5665e2a102445e326e8cbe87f3d4e\AndroidManifest.xml:10:5-80
 	android:name
-		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:10:22-78
+		ADDED from [com.google.vr:sdk-base:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-base-1.10.0.aar\92b5665e2a102445e326e8cbe87f3d4e\AndroidManifest.xml:10:22-78
 uses-feature#android.software.vr.mode
-ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:13:5-85
+ADDED from [com.google.vr:sdk-base:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-base-1.10.0.aar\92b5665e2a102445e326e8cbe87f3d4e\AndroidManifest.xml:13:5-85
 	android:required
-		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:13:59-83
+		ADDED from [com.google.vr:sdk-base:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-base-1.10.0.aar\92b5665e2a102445e326e8cbe87f3d4e\AndroidManifest.xml:13:59-83
 	android:name
-		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:13:19-58
+		ADDED from [com.google.vr:sdk-base:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-base-1.10.0.aar\92b5665e2a102445e326e8cbe87f3d4e\AndroidManifest.xml:13:19-58
 uses-feature#android.hardware.vr.high_performance
-ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:15:5-97
+ADDED from [com.google.vr:sdk-base:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-base-1.10.0.aar\92b5665e2a102445e326e8cbe87f3d4e\AndroidManifest.xml:15:5-97
 	android:required
-		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:15:71-95
+		ADDED from [com.google.vr:sdk-base:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-base-1.10.0.aar\92b5665e2a102445e326e8cbe87f3d4e\AndroidManifest.xml:15:71-95
 	android:name
-		ADDED from [com.google.vr:sdk-base:1.10.0] /Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/AndroidManifest.xml:15:19-70
+		ADDED from [com.google.vr:sdk-base:1.10.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\sdk-base-1.10.0.aar\92b5665e2a102445e326e8cbe87f3d4e\AndroidManifest.xml:15:19-70

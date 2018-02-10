@@ -18,13 +18,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.dropbox.client2.DropboxAPI;
-import com.dropbox.client2.android.AndroidAuthSession;
-import com.dropbox.client2.exception.DropboxException;
-import com.dropbox.client2.exception.DropboxUnlinkedException;
-import com.dropbox.client2.session.AppKeyPair;
-import com.google.android.gms.tasks.OnFailureListener;
-import com.google.android.gms.tasks.OnSuccessListener;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -41,9 +34,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     final static private String APP_KEY = "lpockvr9197gefb";
     final static private String APP_SECRET = "h4drmb3ebhfb8vt";
-
-    // In the class declaration section:
-    private DropboxAPI<AndroidAuthSession> mDBApi;
 
 
 
@@ -74,17 +64,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             else{
                 //Toast.makeText(MainActivity.this, "VR Mode", Toast.LENGTH_SHORT).show();
 
-                AppKeyPair appKeys = new AppKeyPair(APP_KEY, APP_SECRET);
-                AndroidAuthSession session = new AndroidAuthSession(appKeys);
-                mDBApi = new DropboxAPI<AndroidAuthSession>(session);
-                try {
-                    // Required to complete auth, sets the access token on the session
-                    mDBApi.getSession().finishAuthentication();
-
-                    String accessToken = mDBApi.getSession().getOAuth2AccessToken();
-                } catch (IllegalStateException e) {
-                    e.printStackTrace();
-                }
 
                 // MyActivity below should be your activity class name
 

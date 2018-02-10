@@ -19,21 +19,10 @@
             </intent-filter>
         </activity>
         <activity android:name=".VRActivity"></activity>
+
     </application>
 
-    <activity
-        android:name="com.dropbox.client2.android.AuthActivity"
-        android:launchMode="singleTask"
-        android:theme="@android:style/Theme.Translucent.NoTitleBar"
-        android:configChanges="orientation|keyboard">
-        <intent-filter>
-            <!-- Change this to be db- followed by your app key -->
-            <data android:scheme="db-lpockvr9197gefb" />
-            <action android:name="android.intent.action.VIEW" />
-            <category android:name="android.intent.category.BROWSABLE"/>
-            <category android:name="android.intent.category.DEFAULT" />
-        </intent-filter>
-    </activity>
+
 
 
 </manifest>
