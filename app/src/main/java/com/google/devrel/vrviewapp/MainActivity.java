@@ -19,6 +19,9 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 
+import com.google.android.gms.tasks.OnFailureListener;
+import com.google.android.gms.tasks.OnSuccessListener;
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -63,7 +66,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             }
             else{
                 //Toast.makeText(MainActivity.this, "VR Mode", Toast.LENGTH_SHORT).show();
-
 
                 // MyActivity below should be your activity class name
 

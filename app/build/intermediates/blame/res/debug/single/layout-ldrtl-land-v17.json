@@ -1,18 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-land-v17\\settings_button.xml",
-        "source": "C:\\Users\\test1\\.android\\build-cache\\43afc987e5993fe0fffc9a4585a4fda1ef6b6635\\output\\res\\layout-ldrtl-land-v17\\settings_button.xml"
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout-ldrtl-land-v17/back_button.xml",
+        "source": "/Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/res/layout-ldrtl-land-v17/back_button.xml"
     },
     {
-        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-land-v17\\settings_button.xml",
-        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-base-1.10.0.aar\\92b5665e2a102445e326e8cbe87f3d4e\\res\\layout-ldrtl-land-v17\\settings_button.xml"
-    },
-    {
-        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-land-v17\\back_button.xml",
-        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-base-1.10.0.aar\\92b5665e2a102445e326e8cbe87f3d4e\\res\\layout-ldrtl-land-v17\\back_button.xml"
-    },
-    {
-        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-land-v17\\back_button.xml",
-        "source": "C:\\Users\\test1\\.android\\build-cache\\43afc987e5993fe0fffc9a4585a4fda1ef6b6635\\output\\res\\layout-ldrtl-land-v17\\back_button.xml"
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout-ldrtl-land-v17/settings_button.xml",
+        "source": "/Users/test1/.android/build-cache/43afc987e5993fe0fffc9a4585a4fda1ef6b6635/output/res/layout-ldrtl-land-v17/settings_button.xml"
     }
 ]

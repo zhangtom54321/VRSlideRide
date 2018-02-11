@@ -13,7 +13,7 @@
         android:label="Tests for com.google.devrel.vrviewapp"
         android:targetPackage="com.google.devrel.vrviewapp" />
 
-    <application android:debuggable="true" >
+    <application>
         <uses-library android:name="android.test.runner" />
     </application>
 

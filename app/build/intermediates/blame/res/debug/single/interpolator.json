@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/test1/.android/build-cache/3280f2dcff45c4fd39dde327bd6bb9ef698d7ff1/output/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/test1/.android/build-cache/3280f2dcff45c4fd39dde327bd6bb9ef698d7ff1/output/res/interpolator/mr_fast_out_slow_in.xml"
+    }
+]

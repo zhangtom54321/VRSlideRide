@@ -1,18 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\test1\\.android\\build-cache\\831c81fe5c84db89f79ea5dbc9394a66ac8ad23a\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/test1/.android/build-cache/e267e25c81edb4f566f2d363d90a82e199b79d49/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\test1\\.android\\build-cache\\831c81fe5c84db89f79ea5dbc9394a66ac8ad23a\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.3.0.aar\\7b380b0d918803b85f4a59092198d8dd\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.3.0.aar\\7b380b0d918803b85f4a59092198d8dd\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/test1/.android/build-cache/e267e25c81edb4f566f2d363d90a82e199b79d49/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
     }
 ]

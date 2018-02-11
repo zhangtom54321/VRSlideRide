@@ -1,10 +1,6 @@
 [
     {
-        "merged": "C:\\Users\\S\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
-        "source": "C:\\Users\\S\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\2ef41e4efed1412a2bd5a4fd2b8cf543\\res\\drawable-v23\\abc_control_background_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\test1\\Documents\\Firebird Hacks VRSlideRide App and Website Files\\VRSlideRide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
-        "source": "C:\\Users\\test1\\.android\\build-cache\\bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a\\output\\res\\drawable-v23\\abc_control_background_material.xml"
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/drawable-v23/abc_control_background_material.xml"
     }
 ]

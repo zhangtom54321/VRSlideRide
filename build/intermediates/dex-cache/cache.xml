@@ -3,30 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/libs/dropbox-android-sdk-1.6.3.jar"
-        jumboMode="false"
+        jar="/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
         optimize="true"
-        revision="25.0.0"
-        sha1="986e7a58e925c6f91b88ae8d3224a0550b65acc7">
-        <dex dex="/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/2/dropbox-android-sdk-1.6.3_20c74bada5b78d1a5bedfb77e41a70f3c1a26522/classes.dex" />
+        revision="26.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0814e883b271a6afc6acfddc5ad4778fa86cb32a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/libs/curvesapi-1.04.jar"
-        jumboMode="false"
+        jar="/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
-        revision="25.0.0"
-        sha1="3386abf821719bc89c7685f9eaafaf4a842f0199">
-        <dex dex="/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/2/curvesapi-1.04_7d75cf9ae4e94e621c782b30fcf4fb0b46cafcd4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/libs/json_simple-1.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
-        <dex dex="/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/2/json_simple-1.1_a69d9c9a00655fea0dd3a262a7c29989b5d36726/classes.dex" />
+        revision="26.0.2"
+        sha1="e1f008f223ecb2010c52daf2dae97b4aa95c96d6">
+        <dex dex="/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cf87f80574754c4adb36492c77978189cd7afa92/classes.dex" />
     </item>
 
 </items>
