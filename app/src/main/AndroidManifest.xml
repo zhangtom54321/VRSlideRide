@@ -22,11 +22,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".VRActivity"></activity>
-
+        <activity android:name=".VRActivity" />
+        <activity
+            android:name=".SlideLoadActivity"
+            android:label="@string/title_activity_slide_load"
+            android:theme="@style/AppTheme"></activity>
     </application>
-
-
-
 
 </manifest>

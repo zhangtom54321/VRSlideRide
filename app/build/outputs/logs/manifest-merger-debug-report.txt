@@ -47,7 +47,7 @@ ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Fil
 	android:name
 		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:7:22-68
 application
-ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:9:5-27:19
+ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:9:5-30:19
 MERGED from [com.android.support:design:25.4.0] /Users/test1/.android/build-cache/e267e25c81edb4f566f2d363d90a82e199b79d49/output/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/test1/.android/build-cache/9cedf8a4dbcb0c27b5d88f1d208196fe541b262d/output/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:transition:25.4.0] /Users/test1/.android/build-cache/7915785ba5d979407dd28c372ec53a62822ff883/output/AndroidManifest.xml:22:5-26:19
@@ -135,9 +135,17 @@ ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Fil
 	android:name
 		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:22:27-74
 activity#com.google.devrel.vrviewapp.VRActivity
-ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:25:9-57
+ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:25:9-48
 	android:name
 		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:25:19-45
+activity#com.google.devrel.vrviewapp.SlideLoadActivity
+ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:26:9-29:56
+	android:label
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:28:13-62
+	android:theme
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:29:13-44
+	android:name
+		ADDED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml:27:13-46
 uses-sdk
 INJECTED from /Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:25.4.0] /Users/test1/.android/build-cache/e267e25c81edb4f566f2d363d90a82e199b79d49/output/AndroidManifest.xml:21:5-23:62

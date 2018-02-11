@@ -26,4 +26,5 @@
     <string name="gorilla_info">Gorillas are ground-dwelling, predominantly herbivorous apes that inhabit
     the forests of central Africa.</string>
     <string name="codelab_img_description">Image of a codelab computer</string>
+    <string name="title_activity_slide_load">SlideLoadActivity</string>
 </resources>

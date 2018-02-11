@@ -205,7 +205,9 @@ public class WelcomeFragment extends Fragment implements EasyPermissions.Permiss
     private List<String> slideIDs;
     private Exception mLastError = null;
     private String testMessage = "";
-    String presentationID = "";
+    private String presentationID = "";
+
+    public boolean doneBackgroundTask;
 
     @Nullable
     @Override
@@ -247,7 +249,7 @@ public class WelcomeFragment extends Fragment implements EasyPermissions.Permiss
 
 
         // **NEW TEST CODE STARTS HERE**
-        String url = "https://docs.google.com/presentation/d/1akVVQlT-FNg3_XPflwpGC1JRVcnlW0Tnd4STg_XlWfk/edit#slide=id.g35f391192_00";
+        /*String url = "https://docs.google.com/presentation/d/1akVVQlT-FNg3_XPflwpGC1JRVcnlW0Tnd4STg_XlWfk/edit#slide=id.g35f391192_00";
         presentationID = "1akVVQlT-FNg3_XPflwpGC1JRVcnlW0Tnd4STg_XlWfk";
         // String presentationID = url.substring(39, 83);
 
@@ -256,16 +258,17 @@ public class WelcomeFragment extends Fragment implements EasyPermissions.Permiss
                 .setBackOff(new ExponentialBackOff());
 
         //new MakeRequestTask(mCredential).execute();
+        doneBackgroundTask = false;
         getResultsFromApi();
+        while (!doneBackgroundTask) {
+            // do nothing
+        }
         Toast toast = Toast.makeText(getActivity(), testMessage, Toast.LENGTH_LONG);
         toast.show();
-        /*for (int c = 0; c < slideIDs.size(); c++) {
-            Toast toast = Toast.makeText(getActivity(), slideIDs.get(c), Toast.LENGTH_LONG);
+        for (int c = 0; c < slideIDs.size(); c++) {
+            toast = Toast.makeText(getActivity(), slideIDs.get(c), Toast.LENGTH_LONG);
             toast.show();
         }*/
-
-
-
 
         // UNCOMMENT LINE OF CODE BELOW TO GET BACK TO FORMER THING
         // use the name of the image in the assets/ directory.
@@ -277,7 +280,7 @@ public class WelcomeFragment extends Fragment implements EasyPermissions.Permiss
         backgroundImageLoaderTask = task;
     }
 
-    class MakeRequestTask extends AsyncTask<Void, Void, List<String>> {
+    class MakeRequestTask extends AsyncTask<Void, Void, List<String>> { // background getting stuff
         private com.google.api.services.slides.v1.Slides mService = null;
 
         MakeRequestTask(GoogleAccountCredential credential) {
@@ -287,7 +290,10 @@ public class WelcomeFragment extends Fragment implements EasyPermissions.Permiss
                     transport, jsonFactory, credential)
                     .setApplicationName("VRViewApp")
                     .build();
+            testMessage = "Done";
+            doneBackgroundTask = true;
         }
+
         protected List<String> doInBackground(Void... params) {
             //testMessage = "DONE";
             try {
@@ -301,12 +307,14 @@ public class WelcomeFragment extends Fragment implements EasyPermissions.Permiss
                     Page slide = slides.get(i);
                     slideIDs.add(slide.getObjectId());
                 }
+                doneBackgroundTask = true;
                 return slideIDs;
 
             } catch (IOException e) {
                 testMessage = "ERRORRRORRR";
                 mLastError = e;
                 cancel(true);
+                doneBackgroundTask = true;
                 return null;
             }
         }
@@ -333,12 +341,17 @@ public class WelcomeFragment extends Fragment implements EasyPermissions.Permiss
             testMessage = "DONE 1";
         } else if (mCredential.getSelectedAccountName() == null) {
             chooseAccount();
-            testMessage = "DONE 2";
-        } else if (! isDeviceOnline()) {
+            //testMessage = "DONE 2";
+        }
+        /* else if (! isDeviceOnline()) {
             //mOutputText.setText("No network connection available.");
             testMessage = "DONE 3";
-        }
+        }*/
+        else {
+            doneBackgroundTask = true;
             new MakeRequestTask(mCredential).execute();
+            doneBackgroundTask = true;
+        }
     }
 
     /**
@@ -351,21 +364,25 @@ public class WelcomeFragment extends Fragment implements EasyPermissions.Permiss
      * function will be rerun automatically whenever the GET_ACCOUNTS permission
      * is granted.
      */
-    @AfterPermissionGranted(REQUEST_PERMISSION_GET_ACCOUNTS)
+
+    //@AfterPermissionGranted(REQUEST_PERMISSION_GET_ACCOUNTS)
     private void chooseAccount() {
         if (EasyPermissions.hasPermissions(
                 getContext(), Manifest.permission.GET_ACCOUNTS)) {
-            String accountName = getActivity().getPreferences(Context.MODE_PRIVATE)
+            /*String accountName = getActivity().getPreferences(Context.MODE_PRIVATE)
                     .getString(PREF_ACCOUNT_NAME, null);
             if (accountName != null) {
                 mCredential.setSelectedAccountName(accountName);
                 getResultsFromApi();
-            } else {
+            }
+            else {
                 // Start a dialog from which the user can choose an account
                 startActivityForResult(
                         mCredential.newChooseAccountIntent(),
                         REQUEST_ACCOUNT_PICKER);
-            }
+            }*/
+            startActivityForResult(mCredential.newChooseAccountIntent(), REQUEST_ACCOUNT_PICKER);
+
         } else {
             // Request the GET_ACCOUNTS permission via a user dialog
             EasyPermissions.requestPermissions(

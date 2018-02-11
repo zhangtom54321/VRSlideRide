@@ -1,4 +1,4 @@
-#Sat Feb 10 15:30:28 PST 2018
+#Sat Feb 10 19:07:20 PST 2018
 file.86=/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7419df8fa53ff2849ac4b8f3b1876e03bdad69d/classes.dex
 file.85=/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20e2d0329497a32f219e12d5d8994035f2e7cc02/classes.dex
 file.84=/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5321c9be4196bd0a3dffecf072d0a53fa65ab29d/classes.dex

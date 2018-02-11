@@ -25,7 +25,7 @@ public final class R {
         public static final int vrwidget_inner_view = 0x7f0f001d;
     }
     public static final class layout {
-        public static final int ui_view_embed = 0x7f040053;
+        public static final int ui_view_embed = 0x7f040056;
     }
     public static final class style {
         public static final int ControlButton = 0x7f0a00dc;
