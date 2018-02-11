@@ -112,7 +112,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 //Toast.makeText(MainActivity.this,  info.toString(), Toast.LENGTH_LONG).show();
 
                 finish();
-                startActivity(new Intent(getApplicationContext(), VRActivity.class));
+                startActivity(new Intent(getApplicationContext(), SlideActivity.class));
 
             }
         }

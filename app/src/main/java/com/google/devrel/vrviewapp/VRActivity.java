@@ -11,6 +11,8 @@ import android.support.v7.widget.Toolbar;
 
 public class VRActivity extends AppCompatActivity {
 
+    //List
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

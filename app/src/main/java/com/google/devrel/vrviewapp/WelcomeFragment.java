@@ -479,7 +479,6 @@ public class WelcomeFragment extends Fragment implements EasyPermissions.Permiss
         }
     }
 
-
     /**
      * Display an error dialog showing that Google Play Services is missing
      * or out of date.
@@ -495,8 +494,6 @@ public class WelcomeFragment extends Fragment implements EasyPermissions.Permiss
                 REQUEST_GOOGLE_PLAY_SERVICES);
         dialog.show();
     }
-
-
 
     @Override
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
