@@ -1,6 +1,22 @@
 [
     {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
         "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
-        "source": "/Users/test1/.android/build-cache/367de0cc12f698a9f6fe938f1748b006233fb875/output/res/layout-v21/place_autocomplete_fragment.xml"
+        "source": "/Users/test1/.android/build-cache/32ff8479b95abf5c29cfae2246248dfab50135e8/output/res/layout-v21/place_autocomplete_fragment.xml"
     }
 ]

@@ -18,6 +18,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 
@@ -36,8 +37,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     final static private String APP_KEY = "lpockvr9197gefb";
     final static private String APP_SECRET = "h4drmb3ebhfb8vt";
-
-    // In the class declaration section:
 
 
 

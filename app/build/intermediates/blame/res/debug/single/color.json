@@ -1,62 +1,110 @@
 [
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/color/switch_thumb_material_dark.xml"
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
-        "source": "/Users/test1/.android/build-cache/d9a7b3b690499b94f25ea6ab2a53c354bd082918/output/res/color/common_plus_signin_btn_text_dark.xml"
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/test1/.android/build-cache/e267e25c81edb4f566f2d363d90a82e199b79d49/output/res/color/design_error.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/color/abc_primary_text_material_light.xml"
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/color/abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/color/abc_search_url_text.xml"
-    },
-    {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
-        "source": "/Users/test1/.android/build-cache/d9a7b3b690499b94f25ea6ab2a53c354bd082918/output/res/color/common_google_signin_btn_text_dark.xml"
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/color/abc_primary_text_material_dark.xml"
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/color/abc_primary_text_material_dark.xml"
     },
     {
         "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/color/abc_primary_text_disable_only_material_light.xml"
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/color/abc_secondary_text_material_light.xml"
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/color/abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
-        "source": "/Users/test1/.android/build-cache/d9a7b3b690499b94f25ea6ab2a53c354bd082918/output/res/color/common_google_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
-        "source": "/Users/test1/.android/build-cache/d37612a0a58ae64d8bb1637093f8c47904da2186/output/res/color/wallet_primary_text_holo_light.xml"
-    },
-    {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/color/abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/color/abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
-        "source": "/Users/test1/.android/build-cache/d9a7b3b690499b94f25ea6ab2a53c354bd082918/output/res/color/common_plus_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
-        "source": "/Users/test1/.android/build-cache/d37612a0a58ae64d8bb1637093f8c47904da2186/output/res/color/wallet_secondary_text_holo_dark.xml"
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/color/abc_tint_switch_thumb.xml"
     },
     {
         "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/test1/.android/build-cache/bc9951eab0adcb1c58d1d3eb25b7a4b87b2e404a/output/res/color/switch_thumb_material_light.xml"
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/test1/.android/build-cache/89e54c72f3bec07d243dac3234b08d4d34c4ce83/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/test1/.android/build-cache/e267e25c81edb4f566f2d363d90a82e199b79d49/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/test1/.android/build-cache/89e54c72f3bec07d243dac3234b08d4d34c4ce83/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/test1/.android/build-cache/89e54c72f3bec07d243dac3234b08d4d34c4ce83/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/Users/test1/.android/build-cache/78b9b28fa8d4415675fae2568438144092af14d8/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/Users/test1/.android/build-cache/78b9b28fa8d4415675fae2568438144092af14d8/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/test1/.android/build-cache/6cb53e9b1e77013a46fdd93102f86fc12bf79d44/output/res/color/abc_tint_edittext.xml"
     }
 ]
