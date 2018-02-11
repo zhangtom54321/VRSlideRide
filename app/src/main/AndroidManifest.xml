@@ -23,6 +23,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".VRActivity"></activity>
+        <activity android:name=".SlideActivity"></activity>
 
     </application>
 

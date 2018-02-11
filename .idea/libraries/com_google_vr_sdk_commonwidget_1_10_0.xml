@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.google.vr:sdk-commonwidget-1.10.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/4ca21939dedc977cde5b2091855029bff1fe6362/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/4ca21939dedc977cde5b2091855029bff1fe6362/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

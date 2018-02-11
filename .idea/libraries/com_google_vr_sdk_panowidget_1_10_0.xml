@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.google.vr:sdk-panowidget-1.10.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/364d5c952c7a2098cf75a8ffbf4add092fbad71e/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/364d5c952c7a2098cf75a8ffbf4add092fbad71e/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
