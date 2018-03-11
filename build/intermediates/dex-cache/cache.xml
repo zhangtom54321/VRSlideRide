@@ -7,7 +7,11 @@
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
+<<<<<<< HEAD
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+=======
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+>>>>>>> 3cb8234226e5ddbc744fd75b953157d62aa8c0f5
         <dex dex="/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0814e883b271a6afc6acfddc5ad4778fa86cb32a/classes.dex" />
     </item>
     <item
@@ -16,7 +20,11 @@
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
+<<<<<<< HEAD
         sha1="53f7d4c10b87d2d75fc30d0ea2ae3577ed4e5d92">
+=======
+        sha1="e1f008f223ecb2010c52daf2dae97b4aa95c96d6">
+>>>>>>> 3cb8234226e5ddbc744fd75b953157d62aa8c0f5
         <dex dex="/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cf87f80574754c4adb36492c77978189cd7afa92/classes.dex" />
     </item>
 

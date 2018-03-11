@@ -47,12 +47,21 @@ public final class R {
         public static final int vrwidget_inner_view = 0x7f0f001d;
     }
     public static final class layout {
+<<<<<<< HEAD
         public static final int back_button = 0x7f04001f;
         public static final int settings_button = 0x7f040051;
         public static final int transition_view = 0x7f040053;
         public static final int ui_layer = 0x7f040054;
         public static final int ui_layer_with_portrait_support = 0x7f040055;
         public static final int ui_view_embed = 0x7f040056;
+=======
+        public static final int back_button = 0x7f04001d;
+        public static final int settings_button = 0x7f04004e;
+        public static final int transition_view = 0x7f040050;
+        public static final int ui_layer = 0x7f040051;
+        public static final int ui_layer_with_portrait_support = 0x7f040052;
+        public static final int ui_view_embed = 0x7f040053;
+>>>>>>> 3cb8234226e5ddbc744fd75b953157d62aa8c0f5
     }
     public static final class string {
         public static final int back_button_content_description = 0x7f080013;

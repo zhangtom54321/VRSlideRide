@@ -24,6 +24,12 @@ android {
 dependencies {
 
 
+<<<<<<< HEAD
+=======
+
+
+    compile 'pub.devrel:easypermissions:0.3.0'
+>>>>>>> 3cb8234226e5ddbc744fd75b953157d62aa8c0f5
     compile('com.google.api-client:google-api-client-android:1.23.0') {
         exclude group: 'org.apache.httpcomponents'
     }
@@ -33,6 +39,11 @@ dependencies {
 
     compile fileTree(dir: 'app/libs', include: ['*.jar'])
 
+<<<<<<< HEAD
+=======
+    compile 'com.google.android.gms:play-services:11.0.4'
+    compile 'com.google.android.gms:play-services-auth:11.0.4'
+>>>>>>> 3cb8234226e5ddbc744fd75b953157d62aa8c0f5
 
     compile 'com.android.support:appcompat-v7:25.4.0'
     compile 'com.android.support:design:25.4.0'

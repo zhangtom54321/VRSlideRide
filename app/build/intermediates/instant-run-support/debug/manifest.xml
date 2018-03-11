@@ -51,10 +51,13 @@
             </intent-filter>
         </activity>
         <activity android:name="com.google.devrel.vrviewapp.VRActivity" />
+<<<<<<< HEAD
         <activity
             android:name="com.google.devrel.vrviewapp.SlideLoadActivity"
             android:label="@string/title_activity_slide_load"
             android:theme="@style/AppTheme" />
+=======
+>>>>>>> 3cb8234226e5ddbc744fd75b953157d62aa8c0f5
 
         <meta-data
             android:name="android.support.VERSION"
