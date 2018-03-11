@@ -1,4 +1,4 @@
-#Sat Feb 10 19:07:20 PST 2018
+#Sun Mar 11 06:54:29 PDT 2018
 base.0=/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1
 renamed.0=classes.dex
 file.0=/Users/test1/Documents/Firebird Hacks VRSlideRide App and Website Files/VRSlideRide/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex
