@@ -11,4 +11,6 @@
 This app, along with its website, was built on 11/4/17 - 11/5/17 in 24 hours at Firebird Hacks in Fremont, CA. It won 2nd place.
 It was improved upon at EVHacks in February 2018. It won Honorable Mention.
 
-The website's Github Repository can be found at "https://github.com/zhangtom54321/vrslideridewebsite"
+The website's Github Repository can be found at "https://github.com/zhangtom54321/vrslideridewebsite".
+
+View the devpost at "https://devpost.com/software/vrslideride-04qprz"
